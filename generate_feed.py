@@ -7,13 +7,11 @@ from io import StringIO
 
 CSV_URL="https://www.gsmnet.ro/csv/feedPriceCustomersDiamond.csv"
 
-# Download CSV
 response=requests.get(CSV_URL)
 response.encoding='utf-8'
 
 csv_text=response.text
 
-# Detect separator automatically
 sample=csv_text[:5000]
 delimiter=csv.Sniffer().sniff(sample).delimiter
 
@@ -27,16 +25,14 @@ df=pd.read_csv(
 df.columns=[str(c).strip() for c in df.columns]
 
 for c in ['EAN','LINK POZA','LINK PRODUS','Disponibilitate','COD_UNIC']:
-    df[c]=df[c].astype(str).str.strip()
+    if c in df.columns:
+        df[c]=df[c].astype(str).str.strip()
 
 df=df[(df["COD_UNIC"]!="")&(df["COD_UNIC"].str.lower()!="nan")]
-
 df=df.drop_duplicates(subset=["EAN"])
 
 df["Pret Diamond cu TVA"]=pd.to_numeric(
-    df["Pret Diamond cu TVA"]
-    .astype(str)
-    .str.replace(",","."),
+    df["Pret Diamond cu TVA"].astype(str).str.replace(",","."),
     errors="coerce"
 )
 
