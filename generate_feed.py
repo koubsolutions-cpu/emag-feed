@@ -5,41 +5,59 @@ import csv
 import requests
 from io import StringIO
 
-CSV_URL="https://www.gsmnet.ro/csv/feedPriceCustomersDiamond.csv"
+CSV_URL = "https://www.gsmnet.ro/csv/feedPriceCustomersDiamond.csv"
 
-response=requests.get(CSV_URL)
-response.encoding='utf-8'
+# Download supplier CSV
+response = requests.get(CSV_URL)
+response.encoding = "utf-8"
 
-csv_text=response.text
+csv_text = response.text
 
-sample=csv_text[:5000]
-delimiter=csv.Sniffer().sniff(sample).delimiter
+# Detect CSV separator automatically
+sample = csv_text[:5000]
+delimiter = csv.Sniffer().sniff(sample).delimiter
 
-df=pd.read_csv(
+df = pd.read_csv(
     StringIO(csv_text),
     sep=delimiter,
     low_memory=False,
     on_bad_lines='skip'
 )
 
-df.columns=[str(c).strip() for c in df.columns]
+# Clean column names
+df.columns = [str(c).strip() for c in df.columns]
 
-for c in ['EAN','LINK POZA','LINK PRODUS','Disponibilitate','COD_UNIC']:
+# Clean fields
+for c in ['EAN', 'LINK POZA', 'LINK PRODUS', 'Disponibilitate', 'COD_UNIC']:
     if c in df.columns:
-        df[c]=df[c].astype(str).str.strip()
+        df[c] = df[c].astype(str).str.strip()
 
-df=df[(df["COD_UNIC"]!="")&(df["COD_UNIC"].str.lower()!="nan")]
-df=df.drop_duplicates(subset=["EAN"])
+# Keep valid IDs
+df = df[
+    (df["COD_UNIC"] != "") &
+    (df["COD_UNIC"].str.lower() != "nan")
+]
 
-df["Pret Diamond cu TVA"]=pd.to_numeric(
-    df["Pret Diamond cu TVA"].astype(str).str.replace(",","."),
+# Remove duplicate EAN
+df = df.drop_duplicates(subset=["EAN"])
+
+# Price conversion
+df["Pret Diamond cu TVA"] = pd.to_numeric(
+    df["Pret Diamond cu TVA"]
+    .astype(str)
+    .str.replace(",", "."),
     errors="coerce"
 )
 
-valid=df[
-(df["EAN"].str.match(r'^\d{8,}$',na=False))&
-(df["LINK POZA"].str.lower()!="nan")&
-(df["LINK PRODUS"].str.lower()!="nan")&
+# Required filters
+valid = df[
+    (df["EAN"].str.match(r'^\d{8,}$', na=False)) &
+    (df["LINK POZA"].str.lower() != "nan") &
+    (df["LINK PRODUS"].str.lower() != "nan") &
+    (df["Pret Diamond cu TVA"] > 10)
+]
+
+# Stock rule
 def stock_value(status):
     status = str(status).lower()
 
@@ -47,42 +65,59 @@ def stock_value(status):
         return 5
 
     return 0
-(df["Pret Diamond cu TVA"]>10)
-]
 
-def price(c):
-    if c<=10:p=c*2
-    elif c<=25:p=c*1.8
-    elif c<=50:p=c*1.6
-    elif c<=100:p=c*1.45
-    elif c<=200:p=c*1.35
-    else:p=c*1.25
+# Pricing rule
+def price(cost):
 
-    p*=1.05
-    return round(math.floor(p)+0.99,2)
+    if cost <= 10:
+        p = cost * 2
 
-root=ET.Element("products")
+    elif cost <= 25:
+        p = cost * 1.8
 
-for _,r in valid.iterrows():
+    elif cost <= 50:
+        p = cost * 1.6
 
-    prod=ET.SubElement(root,"product")
+    elif cost <= 100:
+        p = cost * 1.45
 
-    fields={
-        "id":r["COD_UNIC"],
-        "category":r.get("CATEGORIE",""),
-        "name":r.get("NUME",""),
-        "brand":r.get("MARCA",""),
-        "product_code":r.get("COD",""),
-        "product_url":r.get("LINK PRODUS",""),
-        "image_url":r.get("LINK POZA",""),
-        "sale_price":price(r["Pret Diamond cu TVA"]),
+    elif cost <= 200:
+        p = cost * 1.35
+
+    else:
+        p = cost * 1.25
+
+    # eMAG fee protection
+    p *= 1.05
+
+    # X.99 pricing
+    return round(math.floor(p) + 0.99, 2)
+
+# Create XML
+root = ET.Element("products")
+
+for _, r in valid.iterrows():
+
+    product = ET.SubElement(root, "product")
+
+    fields = {
+
+        "id": r["COD_UNIC"],
+        "category": r.get("CATEGORIE", ""),
+        "name": r.get("NUME", ""),
+        "brand": r.get("MARCA", ""),
+        "product_code": r.get("COD", ""),
+        "product_url": r.get("LINK PRODUS", ""),
+        "image_url": r.get("LINK POZA", ""),
+        "sale_price": price(r["Pret Diamond cu TVA"]),
         "stock": stock_value(r["Disponibilitate"]),
-        "ean":r.get("EAN","")
+        "ean": r.get("EAN", "")
     }
 
-    for k,v in fields.items():
-        ET.SubElement(prod,k).text=str(v)
+    for key, value in fields.items():
+        ET.SubElement(product, key).text = str(value)
 
+# Save XML
 ET.ElementTree(root).write(
     "feed.xml",
     encoding="utf-8",
