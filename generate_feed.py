@@ -1,15 +1,36 @@
 import pandas as pd
 import math
 import xml.etree.ElementTree as ET
+import csv
+import requests
+from io import StringIO
 
 CSV_URL="https://www.gsmnet.ro/csv/feedPriceCustomersDiamond.csv"
 
-df=pd.read_csv(CSV_URL, low_memory=False)
+# Download CSV
+response=requests.get(CSV_URL)
+response.encoding='utf-8'
+
+csv_text=response.text
+
+# Detect separator automatically
+sample=csv_text[:5000]
+delimiter=csv.Sniffer().sniff(sample).delimiter
+
+df=pd.read_csv(
+    StringIO(csv_text),
+    sep=delimiter,
+    low_memory=False,
+    on_bad_lines='skip'
+)
+
+df.columns=[str(c).strip() for c in df.columns]
 
 for c in ['EAN','LINK POZA','LINK PRODUS','Disponibilitate','COD_UNIC']:
     df[c]=df[c].astype(str).str.strip()
 
 df=df[(df["COD_UNIC"]!="")&(df["COD_UNIC"].str.lower()!="nan")]
+
 df=df.drop_duplicates(subset=["EAN"])
 
 df["Pret Diamond cu TVA"]=pd.to_numeric(
@@ -67,4 +88,4 @@ ET.ElementTree(root).write(
     xml_declaration=True
 )
 
-print("Feed generated")
+print("Feed generated successfully")
