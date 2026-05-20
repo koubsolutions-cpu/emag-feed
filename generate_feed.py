@@ -40,8 +40,13 @@ valid=df[
 (df["EAN"].str.match(r'^\d{8,}$',na=False))&
 (df["LINK POZA"].str.lower()!="nan")&
 (df["LINK PRODUS"].str.lower()!="nan")&
-(df["Disponibilitate"].str.contains("stoc",case=False,na=False))&
-(~df["Disponibilitate"].str.contains("lipsa",case=False,na=False))&
+def stock_value(status):
+    status = str(status).lower()
+
+    if "stoc" in status and "lipsa" not in status:
+        return 5
+
+    return 0
 (df["Pret Diamond cu TVA"]>10)
 ]
 
@@ -71,7 +76,7 @@ for _,r in valid.iterrows():
         "product_url":r.get("LINK PRODUS",""),
         "image_url":r.get("LINK POZA",""),
         "sale_price":price(r["Pret Diamond cu TVA"]),
-        "stock":"10",
+        "stock": stock_value(r["Disponibilitate"]),
         "ean":r.get("EAN","")
     }
 
