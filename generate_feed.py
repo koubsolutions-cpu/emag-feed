@@ -279,3 +279,93 @@ ET.ElementTree(root).write(
 )
 
 print("All feeds generated successfully")
+# =========================
+# MPO Feed
+# =========================
+
+root=ET.Element("products")
+
+for _,r in valid.iterrows():
+
+    product=ET.SubElement(
+        root,
+        "product"
+    )
+
+    price=emag_price(
+        r["Pret Diamond cu TVA"],
+        "RO"
+    )
+
+    fields={
+
+        "identifier":
+            r["COD_UNIC"],
+
+        "manufacturer":
+            r.get(
+                "MARCA",
+                ""
+            ),
+
+        "name":
+            r.get(
+                "NUME",
+                ""
+            ),
+
+        "product_url":
+            r.get(
+                "LINK PRODUS",
+                ""
+            ),
+
+        "price":
+            price,
+
+        "currency":
+            "RON",
+
+        "image_url":
+            r.get(
+                "LINK POZA",
+                ""
+            ),
+
+        "category":
+            r.get(
+                "CATEGORIE",
+                ""
+            ),
+
+        "description":
+            r.get(
+                "DENUMIRE",
+                ""
+            ),
+
+        "Delivery_Time":
+            "1",
+
+        "Delivery_Cost":
+            "20 RON",
+
+        "EAN_code":
+            r.get(
+                "EAN",
+                ""
+            )
+    }
+
+    for k,v in fields.items():
+
+        ET.SubElement(
+            product,
+            k
+        ).text=str(v)
+
+ET.ElementTree(root).write(
+    "mpo_feed.xml",
+    encoding="utf-8",
+    xml_declaration=True
+)
