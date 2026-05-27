@@ -292,10 +292,9 @@ for _,r in valid.iterrows():
         "product"
     )
 
-    price=emag_price(
-        r["Pret Diamond cu TVA"],
-        "RO"
-    )
+    price=mpo_price(
+    r["Pret Diamond cu TVA"]
+)
 
     fields={
 
@@ -369,3 +368,19 @@ ET.ElementTree(root).write(
     encoding="utf-8",
     xml_declaration=True
 )
+def mpo_price(cost):
+
+    cost=float(cost)
+
+    p=markup(cost)
+
+    # MPO commission protection
+    p*=1.12
+
+    # safety buffer
+    p*=1.05
+
+    return round(
+        math.floor(p)+0.99,
+        2
+    )
