@@ -44,7 +44,7 @@ for c in [
     if c in df.columns:
         df[c]=df[c].astype(str).str.strip()
 
-# numeric IDs only
+# keep only numeric IDs
 valid=df[
     df["COD_UNIC"]
     .astype(str)
@@ -111,6 +111,7 @@ def emag_price(cost,country):
 
     p=markup(cost)
 
+    # safety buffer
     p*=1.05
 
     p*=VAT[country]
@@ -127,8 +128,28 @@ def trendyol_price(cost,country):
 
     p=markup(cost)
 
+    # shipping cost
     p+=SHIPPING[country]
 
+    # safety buffer
+    p*=1.05
+
+    return round(
+        math.floor(p)+0.99,
+        2
+    )
+
+
+def mpo_price(cost):
+
+    cost=float(cost)
+
+    p=markup(cost)
+
+    # MPO commission
+    p*=1.12
+
+    # safety buffer
     p*=1.05
 
     return round(
@@ -278,7 +299,7 @@ ET.ElementTree(root).write(
     xml_declaration=True
 )
 
-print("All feeds generated successfully")
+
 # =========================
 # MPO Feed
 # =========================
@@ -293,8 +314,8 @@ for _,r in valid.iterrows():
     )
 
     price=mpo_price(
-    r["Pret Diamond cu TVA"]
-)
+        r["Pret Diamond cu TVA"]
+    )
 
     fields={
 
@@ -368,19 +389,5 @@ ET.ElementTree(root).write(
     encoding="utf-8",
     xml_declaration=True
 )
-def mpo_price(cost):
 
-    cost=float(cost)
-
-    p=markup(cost)
-
-    # MPO commission protection
-    p*=1.12
-
-    # safety buffer
-    p*=1.05
-
-    return round(
-        math.floor(p)+0.99,
-        2
-    )
+print("All feeds generated successfully")
