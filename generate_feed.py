@@ -358,10 +358,10 @@ for _,r in valid.iterrows():
                 ""
             ),
 
-        "description":
-            r.get(
-                "DENUMIRE",
-                ""
+         "description":
+             r.get(
+                  "NUME",
+                 ""
             ),
 
         "Delivery_Time":
