@@ -364,10 +364,7 @@ for _,r in valid.iterrows():
                  ""
             ),
 
-        "Delivery_Time":
-    "0" if str(
-        r["Disponibilitate"]
-    ).strip() == "Lipsa stoc" else "1",,
+        "Delivery_Time":"0" if str(r["Disponibilitate"]).strip().lower() == "lipsa stoc" else "1",
 
         "Delivery_Cost":
             "20 RON",
