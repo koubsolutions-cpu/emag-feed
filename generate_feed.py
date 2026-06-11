@@ -365,7 +365,9 @@ for _,r in valid.iterrows():
             ),
 
         "Delivery_Time":
-            "1",
+    "1" if stock_value(
+        r["Disponibilitate"]
+    ) > 0 else "0",
 
         "Delivery_Cost":
             "20 RON",
