@@ -39,7 +39,8 @@ category_lookup = dict(
     zip(
         mpo["identifier"],
         mpo["Category_Corectata"]
- )
+    )
+)
 
 df.columns=[str(c).strip() for c in df.columns]
 
