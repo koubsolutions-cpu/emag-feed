@@ -364,15 +364,7 @@ def mpo_price(product):
     p *= safety_buffer(product.cost)
 
     return round99(p)
-  def mpo_price(product):
-
-    p = markup(product.cost)
-
-    p *= 1.12
-
-    p *= safety_buffer(product.cost)
-
-    return round99(p)
+ 
     # ============================================================
 # HISTORY ENGINE
 # ============================================================
