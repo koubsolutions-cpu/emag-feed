@@ -31,6 +31,15 @@ df=pd.read_csv(
     low_memory=False,
     on_bad_lines="skip"
 )
+mpo = pd.read_csv("Koub Solutions feed - Sheet1.csv")
+
+mpo["identifier"] = mpo["identifier"].astype(str)
+
+category_lookup = dict(
+    zip(
+        mpo["identifier"],
+        mpo["Category_Corectata"]
+ )
 
 df.columns=[str(c).strip() for c in df.columns]
 
@@ -353,10 +362,10 @@ for _,r in valid.iterrows():
             ),
 
         "category":
-            r.get(
-                "CATEGORIE",
-                ""
-            ),
+    category_lookup.get(
+        str(r["COD_UNIC"]),
+        r.get("CATEGORIE","")
+    ),
 
          "description":
              r.get(
