@@ -193,6 +193,10 @@ valid["Pret Diamond cu TVA"] = pd.to_numeric(
     .str.replace(",", "."),
     errors="coerce"
 )
+valid = valid[
+    valid["Pret Diamond cu TVA"].notna()
+    & (valid["Pret Diamond cu TVA"] > 0)
+]
 
 valid = valid[
     (
