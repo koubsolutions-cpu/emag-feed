@@ -1,4 +1,5 @@
-name: Update eMAG Feed
+
+name: Update eMAG and Skroutz Feeds
 
 on:
   schedule:
@@ -25,17 +26,20 @@ jobs:
         run: |
           pip install pandas requests
 
-      - name: Generate feed
+      - name: Generate existing marketplace feeds
         run: |
           python generate_feed_v2.py
 
-      - name: Commit updated feed
+      - name: Generate Skroutz feed
+        run: |
+          python generate_skroutz_feed.py
+
+      - name: Commit updated feeds
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add *.xml *.csv
 
-          git commit -m "Auto update feed" || echo "No changes"
-
+          git commit -m "Auto update marketplace feeds" || echo "No changes"
           git push
