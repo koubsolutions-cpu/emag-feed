@@ -1,4 +1,6 @@
-
+- name: Generate Skroutz feed
+  run: |
+  python generate_skroutz_feed.py
 name: Update eMAG and Skroutz Feeds
 
 on:
