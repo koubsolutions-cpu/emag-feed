@@ -274,15 +274,18 @@ def main():
 
     from io import BytesIO
 
-        df = pd.read_csv(
-            BytesIO(response.content),
-            sep=";",
-            dtype=str,
-            encoding="utf-8-sig",
-            on_bad_lines="error",
-        )
+    df = pd.read_csv(
+        BytesIO(response.content),
+        sep=";",
+        dtype=str,
+        encoding="utf-8-sig",
+        on_bad_lines="error",
+    )
 
-        df.columns = [
+    df.columns = [
+        str(column).replace("\ufeff", "").strip()
+        for column in df.columns
+    ]
             str(column).replace("\ufeff", "").strip()
             for column in df.columns
         ]
