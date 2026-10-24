@@ -19,8 +19,9 @@ SUPPLIER_CSV_URL = (
     "https://www.gsmnet.ro/csv/feedPriceCustomersDiamond.csv"
 )
 
-COMMISSION_FILE = "skroutz_commissions.csv"
-CATEGORY_MAPPING_FILE = "skroutz_category_mapping.csv"
+CATEGORY_MAPPING_FILE = "GSMNet_category_summary_for_Skroutz.xlsx"
+CATEGORY_MAPPING_SHEET = "Category summary"
+COMMISSION_PERCENT = Decimal("15.00")
 
 OUTPUT_XML = "skroutz_feed.xml"
 OUTPUT_REPORT = "skroutz_feed_report.csv"
@@ -152,108 +153,42 @@ def calculate_prices(cost_ron, commission_pct, eur_ron):
 
 
 def load_category_rules():
-    for filename in (COMMISSION_FILE, CATEGORY_MAPPING_FILE):
-        if not Path(filename).exists():
-            raise FileNotFoundError(
-                f"Required file missing: {filename}"
-            )
-
-    commissions = pd.read_csv(
-        COMMISSION_FILE, dtype=str
-    ).fillna("")
-
-    mapping = pd.read_csv(
-        CATEGORY_MAPPING_FILE, dtype=str
-    ).fillna("")
-
-    required_commission = {
-        "category", "commission_percent"
-    }
-    required_mapping = {
-        "gsmnet_category",
-        "skroutz_category",
-        "commission_category",
-    }
-
-    if not required_commission.issubset(commissions.columns):
-        raise ValueError(
-            f"{COMMISSION_FILE} must have columns: "
-            "category, commission_percent"
+    """Load the user's approved category mapping and apply 15% commission to all."""
+    if not Path(CATEGORY_MAPPING_FILE).exists():
+        raise FileNotFoundError(
+            f"Required category mapping file missing: {CATEGORY_MAPPING_FILE}"
         )
 
+    mapping = pd.read_excel(
+        CATEGORY_MAPPING_FILE,
+        sheet_name=CATEGORY_MAPPING_SHEET,
+        dtype=str,
+    ).fillna("")
+
+    required_mapping = {"GSMNet category", "Skroutz category"}
     if not required_mapping.issubset(mapping.columns):
         raise ValueError(
-            f"{CATEGORY_MAPPING_FILE} must have columns: "
-            "gsmnet_category, skroutz_category, "
-            "commission_category"
+            f"{CATEGORY_MAPPING_FILE} / {CATEGORY_MAPPING_SHEET} must contain columns: "
+            "GSMNet category and Skroutz category"
         )
 
-    commission_lookup = {}
-
-    for _, row in commissions.iterrows():
-        category = clean(row["category"])
-        percentage = clean(row["commission_percent"])
-
-        if not category or not percentage:
-            continue
-
-        percentage = percentage.replace("%", "").replace(",", ".")
-
-        try:
-            rate = Decimal(percentage)
-        except Exception:
-            continue
-
-        if rate < 0 or rate >= 100:
-            continue
-
-        commission_lookup[category.casefold()] = rate
-
     mapping_lookup = {}
-    skipped = []
-
     for _, row in mapping.iterrows():
-        gsm_category = clean(row["gsmnet_category"])
-        skroutz_category = clean(row["skroutz_category"])
-        commission_category = clean(row["commission_category"])
-
+        gsm_category = clean(row["GSMNet category"])
+        skroutz_category = clean(row["Skroutz category"])
         if not gsm_category or not skroutz_category:
             continue
-
-        commission_key = commission_category.casefold()
-
-        if not commission_category:
-            skipped.append(gsm_category)
-            continue
-
-        if commission_key not in commission_lookup:
-            skipped.append(
-                f"{gsm_category} (commission not found: "
-                f"{commission_category})"
-            )
-            continue
-
         mapping_lookup[gsm_category.casefold()] = {
             "skroutz_category": skroutz_category,
-            "commission": commission_lookup[commission_key],
+            "commission": COMMISSION_PERCENT,
         }
 
     print(
-        f"Loaded {len(mapping_lookup)} approved category rules; "
-        f"skipped {len(skipped)} incomplete or unmatched mappings."
+        f"Loaded {len(mapping_lookup)} category mappings; "
+        f"commission fixed at {COMMISSION_PERCENT}% for all mapped categories."
     )
-
-    if skipped:
-        print("Categories needing review:")
-        for category in skipped:
-            print(f"  - {category}")
-
     if not mapping_lookup:
-        raise ValueError(
-            "No valid category rules loaded. Check the "
-            "commission categories in skroutz_category_mapping.csv."
-        )
-
+        raise ValueError("No category mappings found in the Excel workbook.")
     return mapping_lookup
 
 # ============================================================
@@ -379,7 +314,7 @@ def main():
             "name": name[:300],
             "link": product_url,
             "image": image_url,
-            "price": f"{net:.2f}",
+            "price": f"{gross:.2f}",
             "price_with_vat": f"{gross:.2f}",
             "vat": f"{GREEK_VAT_RATE:.2f}",
             "category": rule["skroutz_category"],
