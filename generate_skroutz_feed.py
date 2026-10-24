@@ -379,7 +379,8 @@ def main():
             "name": name[:300],
             "link": product_url,
             "image": image_url,
-            "price": f"{gross:.2f}",
+            "price": f"{net:.2f}",
+            "price_with_vat": f"{gross:.2f}",
             "vat": f"{GREEK_VAT_RATE:.2f}",
             "category": rule["skroutz_category"],
             "manufacturer": brand[:100],
@@ -389,7 +390,6 @@ def main():
             "instock": "Y",
             "quantity": "5",
             "description": name,
-            "wholesale_price": f"{money(Decimal(str(row['Pret Diamond cu TVA'])) / eur_ron):.2f}",
         }
 
         for tag, value in fields.items():
