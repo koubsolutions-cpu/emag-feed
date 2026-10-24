@@ -285,10 +285,7 @@ def main():
     df.columns = [
         str(column).replace("\ufeff", "").strip()
         for column in df.columns
-    ]
-            str(column).replace("\ufeff", "").strip()
-            for column in df.columns
-        ]
+    
 
     required_columns = {
         "COD_UNIC", "CATEGORIE", "MARCA", "NUME",
