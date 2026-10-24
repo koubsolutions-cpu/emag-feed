@@ -1,11 +1,9 @@
-- name: Generate Skroutz feed
-  run: |
-  python generate_skroutz_feed.py
+
 name: Update eMAG and Skroutz Feeds
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -40,8 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add *.xml *.csv
-
           git commit -m "Auto update marketplace feeds" || echo "No changes"
           git push
