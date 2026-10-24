@@ -26,6 +26,9 @@ jobs:
         run: |
           pip install pandas requests
 
+      - name: Install dependencies
+        run: pip install pandas requests openpyxl
+
       - name: Generate existing marketplace feeds
         run: |
           python generate_feed_v2.py
