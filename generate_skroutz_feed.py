@@ -272,7 +272,8 @@ def main():
     response = requests.get(SUPPLIER_CSV_URL, timeout=120)
     response.raise_for_status()
 
-    from io import BytesIO
+           from io import BytesIO
+
         df = pd.read_csv(
             BytesIO(response.content),
             sep=";",
@@ -280,10 +281,11 @@ def main():
             encoding="utf-8-sig",
             on_bad_lines="error",
         )
-         df.columns = [
-        str(column).replace("\ufeff", "").strip()
-        for column in df.columns
-    ]
+
+        df.columns = [
+            str(column).replace("\ufeff", "").strip()
+            for column in df.columns
+        ]
 
     required_columns = {
         "COD_UNIC", "CATEGORIE", "MARCA", "NUME",
