@@ -272,7 +272,7 @@ def main():
     response = requests.get(SUPPLIER_CSV_URL, timeout=120)
     response.raise_for_status()
 
-           from io import BytesIO
+    from io import BytesIO
 
         df = pd.read_csv(
             BytesIO(response.content),
