@@ -274,15 +274,23 @@ def main():
 
     from io import BytesIO
 
+    # Detect the supplier CSV delimiter instead of assuming commas or semicolons.
+    sample = response.content[:65536].decode("utf-8-sig", errors="replace")
+    try:
+        delimiter = csv.Sniffer().sniff(sample, delimiters=",;\t|").delimiter
+    except csv.Error:
+        delimiter = ";"
+
     df = pd.read_csv(
         BytesIO(response.content),
-        sep=";",
+        sep=delimiter,
         dtype=str,
         encoding="utf-8-sig",
+        engine="python",
         on_bad_lines="error",
     )
 
-      df.columns = [
+    df.columns = [
         str(column).replace("\ufeff", "").strip()
         for column in df.columns
     ]
