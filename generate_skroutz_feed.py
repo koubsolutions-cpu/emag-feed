@@ -150,6 +150,7 @@ def calculate_prices(cost_ron, commission_pct, eur_ron):
 # LOAD CATEGORY RULES
 # ============================================================
 
+
 def load_category_rules():
     for filename in (COMMISSION_FILE, CATEGORY_MAPPING_FILE):
         if not Path(filename).exists():
@@ -164,11 +165,6 @@ def load_category_rules():
     mapping = pd.read_csv(
         CATEGORY_MAPPING_FILE, dtype=str
     ).fillna("")
-
-    # Expected commission columns:
-    # category, commission_percent
-    # Expected mapping columns:
-    # gsmnet_category, skroutz_category, commission_category
 
     required_commission = {
         "category", "commission_percent"
@@ -201,11 +197,20 @@ def load_category_rules():
         if not category or not percentage:
             continue
 
-        commission_lookup[category.casefold()] = Decimal(
-            percentage.replace("%", "").replace(",", ".")
-        )
+        percentage = percentage.replace("%", "").replace(",", ".")
+
+        try:
+            rate = Decimal(percentage)
+        except Exception:
+            continue
+
+        if rate < 0 or rate >= 100:
+            continue
+
+        commission_lookup[category.casefold()] = rate
 
     mapping_lookup = {}
+    skipped = []
 
     for _, row in mapping.iterrows():
         gsm_category = clean(row["gsmnet_category"])
@@ -217,19 +222,39 @@ def load_category_rules():
 
         commission_key = commission_category.casefold()
 
+        if not commission_category:
+            skipped.append(gsm_category)
+            continue
+
         if commission_key not in commission_lookup:
-            raise ValueError(
-                "No commission found for category: "
-                + commission_category
+            skipped.append(
+                f"{gsm_category} (commission not found: "
+                f"{commission_category})"
             )
+            continue
 
         mapping_lookup[gsm_category.casefold()] = {
             "skroutz_category": skroutz_category,
             "commission": commission_lookup[commission_key],
         }
 
-    return mapping_lookup
+    print(
+        f"Loaded {len(mapping_lookup)} approved category rules; "
+        f"skipped {len(skipped)} incomplete or unmatched mappings."
+    )
 
+    if skipped:
+        print("Categories needing review:")
+        for category in skipped:
+            print(f"  - {category}")
+
+    if not mapping_lookup:
+        raise ValueError(
+            "No valid category rules loaded. Check the "
+            "commission categories in skroutz_category_mapping.csv."
+        )
+
+    return mapping_lookup
 
 # ============================================================
 # GENERATE XML
