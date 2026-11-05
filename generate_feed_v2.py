@@ -34,6 +34,8 @@ SHIPPING = {
     "RO": 11.48
 }
 
+MPO_DISCOUNT = 0.15
+
 # ============================================================
 # HELPER FUNCTIONS
 # ============================================================
@@ -193,6 +195,7 @@ valid["Pret Diamond cu TVA"] = pd.to_numeric(
     .str.replace(",", "."),
     errors="coerce"
 )
+
 valid = valid[
     valid["Pret Diamond cu TVA"].notna()
     & (valid["Pret Diamond cu TVA"] > 0)
@@ -289,6 +292,7 @@ for _, row in valid.iterrows():
 print(
     f"Products loaded: {len(products)}"
 )
+
 # ============================================================
 # SAFETY BUFFER
 # ============================================================
@@ -359,23 +363,47 @@ def trendyol_original(price):
     return round99(price * 1.15)
 
 
-def mpo_price(product):
+# ============================================================
+# MPO PRICING WITH 15% DISCOUNT
+# ============================================================
 
-    p = markup(product.cost)
+def mpo_price_from_cost(cost):
+
+    p = markup(cost)
 
     p *= 1.12
 
-    p *= safety_buffer(product.cost)
+    p *= safety_buffer(cost)
 
     return round99(p)
- 
-    # ============================================================
+
+
+def mpo_price(product):
+
+    return mpo_price_from_cost(product.cost)
+
+
+def mpo_discounted_price_from_cost(cost):
+
+    return round(
+        mpo_price_from_cost(cost) * (1 - MPO_DISCOUNT),
+        2
+    )
+
+
+def mpo_discounted_price(product):
+
+    return mpo_discounted_price_from_cost(product.cost)
+
+
+# ============================================================
 # HISTORY ENGINE
 # ============================================================
 
 print("Updating product history...")
 
 # Use product ID as key
+
 history_lookup = {}
 
 if len(history) > 0:
@@ -490,6 +518,8 @@ print(f"Products in supplier: {len(products)}")
 print(f"Missing once: {len(missing_products)}")
 
 print(f"Disabled: {len(disabled_products)}")
+
+
 # ============================================================
 # PRODUCT STATUS
 # ============================================================
@@ -515,7 +545,9 @@ def delivery_time(product):
         return "0"
 
     return "1" if product.in_stock else "0"
-  # ============================================================
+
+
+# ============================================================
 # eMAG FEEDS
 # ============================================================
 
@@ -622,6 +654,8 @@ for country in ["RO", "BG", "HU"]:
     )
 
 print("eMAG feeds completed.")
+
+
 # ============================================================
 # TRENDYOL FEED
 # ============================================================
@@ -631,6 +665,7 @@ print("Generating Trendyol feed...")
 root = ET.Element("products")
 
 # Products currently in supplier feed
+
 for product in products:
 
     xml_product = ET.SubElement(root, "product")
@@ -658,6 +693,7 @@ for product in products:
     )
 
 # Products missing from supplier feed
+
 for _, row in history.iterrows():
 
     pid = str(row["COD_UNIC"])
@@ -685,14 +721,17 @@ print("trendyol_ro.xml created.")
 
 
 # ============================================================
-# MPO FEED
+# MPO FEED - 15% DISCOUNT
 # ============================================================
 
-print("Generating MPO feed...")
+print("Generating MPO feed with 15% discount...")
 
 root = ET.Element("products")
 
+# ------------------------------------------------------------
 # Products currently in supplier feed
+# ------------------------------------------------------------
+
 for product in products:
 
     xml_product = ET.SubElement(root, "product")
@@ -708,7 +747,7 @@ for product in products:
     add(
         xml_product,
         "price",
-        mpo_price(product)
+        mpo_discounted_price(product)
     )
 
     add(xml_product, "currency", "RON")
@@ -752,7 +791,10 @@ for product in products:
         product.ean
     )
 
+# ------------------------------------------------------------
 # Products missing from supplier feed
+# ------------------------------------------------------------
+
 for _, row in history.iterrows():
 
     pid = str(row["COD_UNIC"])
@@ -770,7 +812,11 @@ for _, row in history.iterrows():
 
     add(xml_product, "product_url", row["ProductURL"])
 
-    add(xml_product, "price", row["Price"])
+    add(
+        xml_product,
+        "price",
+        mpo_discounted_price_from_cost(float(row["Price"]))
+    )
 
     add(xml_product, "currency", "RON")
 
@@ -812,7 +858,9 @@ ET.ElementTree(root).write(
     xml_declaration=True
 )
 
-print("mpo_feed.xml created.")
+print("mpo_feed.xml created with 15% discount.")
+
+
 # ============================================================
 # SAVE HISTORY
 # ============================================================
@@ -829,6 +877,7 @@ history.to_csv(
 )
 
 print(f"{HISTORY_FILE} updated.")
+
 
 # ============================================================
 # DISABLED PRODUCTS
@@ -848,6 +897,7 @@ disabled_df.to_csv(
 print(
     f"Disabled products: {len(disabled_df)}"
 )
+
 
 # ============================================================
 # REPORT
@@ -887,6 +937,7 @@ report.to_csv(
 )
 
 print(f"{REPORT_FILE} created.")
+
 
 # ============================================================
 # SUMMARY
