@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <store>
-  <created_at>2026-11-23 04:30</created_at>
+  <created_at>2026-11-23 16:44</created_at>
   <products>
     <product>
       <uid>91</uid>
@@ -3900,8 +3900,8 @@
       <name>Display cu Touchscreen Samsung Galaxy S20 FE G780, cu Rama, Mov, Service Pack GH82-24219C</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-samsung-galaxy-s20-fe-g780-cu-rama-mov-service-pack-gh82-24219c</link>
       <image>https://img.gsmnet.ro/600x600/products/165788/display-touchscreen-samsung-3-1617110723.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Samsung</manufacturer>
@@ -4393,8 +4393,8 @@
       <name>Display cu Touchscreen Samsung Galaxy S20 FE 5G G781, cu Rama, Rosu, Service Pack GH82-24214E</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-samsung-galaxy-s20-fe-5g-g781-cu-rama-rosu-service-pack-gh82-24214e</link>
       <image>https://img.gsmnet.ro/600x600/products/167572/display-touchscreen-samsung-3-1617111443.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Samsung</manufacturer>
@@ -7874,23 +7874,6 @@
       <description>Baterie Externa HOCO J72, 10000mAh, 10W, 2 x USB-A, Neagra</description>
     </product>
     <product>
-      <uid>314232</uid>
-      <name>Incarcator Retea cu Cablu Lightning HOCO N2, 10W, 2A, 1 x USB-A, Alb</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-incarcatoare/incarcator-retea-cu-cablu-lightning-hoco-n2-10w-2a-1-x-usb-a-alb</link>
-      <image>https://img.gsmnet.ro/600x600/products/176347/incarcator-retea-cu-cablu-1-1643378952.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Incarcatoare Telefoane</category>
-      <manufacturer>HOCO</manufacturer>
-      <mpn>314232</mpn>
-      <ean>6931474746122</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Incarcator Retea cu Cablu Lightning HOCO N2, 10W, 2A, 1 x USB-A, Alb</description>
-    </product>
-    <product>
       <uid>314342</uid>
       <name>Husa MagSafe pentru Apple iPhone 13 Pro, OEM, Magnetic Antisoc, Transparenta</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-13-pro-oem-magnetic-antisoc-transparenta</link>
@@ -9493,8 +9476,8 @@
       <name>Display cu Touchscreen Samsung Galaxy S22 Ultra 5G S908, cu Rama, Albastru (Sky Blue), Service Pack GH82-27488E</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-samsung-galaxy-s22-ultra-5g-s908-cu-rama-albastru-sky-blue-service-pack-gh82-27488e</link>
       <image>https://img.gsmnet.ro/600x600/products/178587/display-cu-touchscreen-samsung-1-1683206002.jpg</image>
-      <price>462.51</price>
-      <price_with_vat>462.51</price_with_vat>
+      <price>463.75</price>
+      <price_with_vat>463.75</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Samsung</manufacturer>
@@ -12445,23 +12428,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Buzzer Samsung Galaxy A52s 5G A528 / A52 5G A526</description>
-    </product>
-    <product>
-      <uid>318782</uid>
-      <name>Buzzer Samsung Galaxy S22 Ultra 5G S908</name>
-      <link>https://www.gsmnet.ro/piese-componente-piese/buzzer-samsung-galaxy-s22-ultra-5g-s908</link>
-      <image>https://img.gsmnet.ro/600x600/products/180897/buzzer-samsung-galaxy-s22-1-1667566692.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Aftermarket</manufacturer>
-      <mpn>318782</mpn>
-      <ean>0660982713079</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Buzzer Samsung Galaxy S22 Ultra 5G S908</description>
     </product>
     <product>
       <uid>318783</uid>
@@ -16204,23 +16170,6 @@
       <description>Surubelnita Relife RL-727 Extreme, Pentalobe 0.8mm, 3D</description>
     </product>
     <product>
-      <uid>322893</uid>
-      <name>Handsfree Bluetooth JBL Wave Beam, TWS, Alb JBLWBEAMWHT</name>
-      <link>https://www.gsmnet.ro/wearables-audio-inclusiv-tws/handsfree-bluetooth-jbl-wave-beam-tws-alb-jblwbeamwht</link>
-      <image>https://img.gsmnet.ro/600x600/products/185008/handsfree-casti-bluetooth-jbl-1-1675940423.jpg</image>
-      <price>80.59</price>
-      <price_with_vat>80.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Casti Bluetooth Handsfree</category>
-      <manufacturer>JBL</manufacturer>
-      <mpn>JBLWBEAMWHT</mpn>
-      <ean>6925281947582</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Handsfree Bluetooth JBL Wave Beam, TWS, Alb JBLWBEAMWHT</description>
-    </product>
-    <product>
       <uid>322948</uid>
       <name>Acumulator Oppo Find X2 Pro, BLP767, Service Pack 4903814</name>
       <link>https://www.gsmnet.ro/piese-componente-acumulatori/acumulator-oppo-find-x2-pro-blp767-service-pack-4903814</link>
@@ -16270,23 +16219,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Samsung Galaxy S23 Ultra S918, Spigen, Liquid Air, Neagra Mata ACS05614</description>
-    </product>
-    <product>
-      <uid>323044</uid>
-      <name>Folie de protectie Ecran GLASTIFY UVTG+ pentru Samsung Galaxy S23 Ultra S918, Sticla Securizata, UV Glue, Set 2 bucati</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-glastify-uvtg-plus-pentru-samsung-galaxy-s23-ultra-s918-sticla-securizata-uv-glue-set-2-bucati</link>
-      <image>https://img.gsmnet.ro/600x600/products/185159/folie-protectie-ecran-glastify-3-1676031312.jpg</image>
-      <price>29.75</price>
-      <price_with_vat>29.75</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>GLASTIFY</manufacturer>
-      <mpn>323044</mpn>
-      <ean>9490713929636</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran GLASTIFY UVTG+ pentru Samsung Galaxy S23 Ultra S918, Sticla Securizata, UV Glue, Set 2 bucati</description>
     </product>
     <product>
       <uid>323067</uid>
@@ -16514,8 +16446,8 @@
       <name>Display cu Touchscreen Samsung Galaxy Tab S6 Lite (2022) P613 / P619, Service Pack GH82-29084A</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-samsung-galaxy-tab-s6-lite-2022-p613-p619-service-pack-gh82-29084a</link>
       <image>https://img.gsmnet.ro/600x600/products/185479/display-cu-touchscreen-samsung-1-1692264689.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Samsung</manufacturer>
@@ -23361,23 +23293,6 @@
       <description>Acumulator Google Pixel 6 Pro, G63QN, Service Pack G730-06300-01</description>
     </product>
     <product>
-      <uid>328578</uid>
-      <name>Acumulator Google Pixel 6a, GLU7G, Service Pack G949-00262-01</name>
-      <link>https://www.gsmnet.ro/piese-componente-acumulatori/acumulator-google-pixel-6a-glu7g-service-pack-g949-00262-01</link>
-      <image>https://img.gsmnet.ro/600x600/products/190693/acumulator-google-pixel-6a-1-1710153487.jpg</image>
-      <price>55.79</price>
-      <price_with_vat>55.79</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Google</manufacturer>
-      <mpn>G949-00262-01</mpn>
-      <ean>0660982745704</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Acumulator Google Pixel 6a, GLU7G, Service Pack G949-00262-01</description>
-    </product>
-    <product>
       <uid>328589</uid>
       <name>Cablu Audio 3.5mm - 3.5mm 3MK, 1m, Negru</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-cabluri-adaptori/cablu-audio-3-5mm-3-5mm-3mk-1m-negru</link>
@@ -24719,23 +24634,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Retea Sony EP800, 4.25W, 0.85A, 1 x USB-A, UK, Negru</description>
-    </product>
-    <product>
-      <uid>329514</uid>
-      <name>Cititor Card USB XO Design DK05A, SD - microSD, Negru</name>
-      <link>https://www.gsmnet.ro/accesorii-pc-laptop-accesorii-usb/cititor-card-usb-xo-design-dk05a-sd-microsd-negru</link>
-      <image>https://img.gsmnet.ro/600x600/products/191631/cititor-card-usb-xo-1-1705937571.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Hub USB</category>
-      <manufacturer>XO Design</manufacturer>
-      <mpn>329514</mpn>
-      <ean>6920680830329</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Cititor Card USB XO Design DK05A, SD - microSD, Negru</description>
     </product>
     <product>
       <uid>329572</uid>
@@ -27269,40 +27167,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Geam Camera Spate Oppo A77 5G, Wide + Depth, Negru</description>
-    </product>
-    <product>
-      <uid>331574</uid>
-      <name>Banda Placa Samsung Galaxy S21 FE 5G G990, Main SUB CTC, Service Pack GH59-15502A</name>
-      <link>https://www.gsmnet.ro/piese-componente-piese/banda-placa-samsung-galaxy-s21-fe-5g-g990-main-sub-ctc-service-pack-gh59-15502a</link>
-      <image>https://img.gsmnet.ro/600x600/products/193699/banda-placa-samsung-galaxy-1-1714133873.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Samsung</manufacturer>
-      <mpn>GH59-15502A</mpn>
-      <ean>0660982705760</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Banda Placa Samsung Galaxy S21 FE 5G G990, Main SUB CTC, Service Pack GH59-15502A</description>
-    </product>
-    <product>
-      <uid>331585</uid>
-      <name>Cablu Date si Incarcare USB-C - USB-C OEM HD26 Box, 30W, 2m, Alb</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-cabluri-adaptori/cablu-date-incarcare-usb-c-usb-c-oem-hd26-box-30w-2m-alb</link>
-      <image>https://img.gsmnet.ro/600x600/products/193710/cablu-date-incarcare-1-1713510945.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Adaptoare și conectori pentru cabluri de rețea</category>
-      <manufacturer>OEM</manufacturer>
-      <mpn>331585</mpn>
-      <ean>5903396235153</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Cablu Date si Incarcare USB-C - USB-C OEM HD26 Box, 30W, 2m, Alb</description>
     </product>
     <product>
       <uid>331600</uid>
@@ -36842,23 +36706,6 @@
       <description>Capac Baterie Apple iPhone 13 Pro, Cu Carcasa Mijloc, Auriu, Swap Premium</description>
     </product>
     <product>
-      <uid>335084</uid>
-      <name>Capac Baterie Apple iPhone 13 Pro, Cu Carcasa Mijloc, Albastru (Sierra Blue), Swap Premium</name>
-      <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-13-pro-cu-carcasa-mijloc-albastru-sierra-blue-swap-premium</link>
-      <image>https://img.gsmnet.ro/600x600/products/197209/capac-baterie-apple-iphone-1-1728989480.jpg</image>
-      <price>153.75</price>
-      <price_with_vat>153.75</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Apple</manufacturer>
-      <mpn>335084</mpn>
-      <ean>0660982708655</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Capac Baterie Apple iPhone 13 Pro, Cu Carcasa Mijloc, Albastru (Sierra Blue), Swap Premium</description>
-    </product>
-    <product>
       <uid>335088</uid>
       <name>Capac Baterie Apple iPhone 11 Pro, Cu Carcasa Mijloc, Argintiu, Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-11-pro-cu-carcasa-mijloc-argintiu-swap-premium</link>
@@ -37050,8 +36897,8 @@
       <name>Capac Baterie Apple iPhone 15 Pro Max, Bej (Natural Titanium), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-15-pro-max-bej-natural-titanium-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/197232/capac-baterie-apple-iphone-1-1728983194.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -38546,8 +38393,8 @@
       <name>Capac Baterie Apple iPhone 15 Pro Max, Albastru (Blue Titanium), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-15-pro-max-albastru-blue-titanium-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/197660/capac-baterie-apple-iphone-1-1730299366.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -38699,8 +38546,8 @@
       <name>Monitor 7Star, 15.6inch, FullHD, Resigilat</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/monitor-7star-15-6inch-fullhd-resigilat</link>
       <image>https://img.gsmnet.ro/600x600/products/197701/monitor-7star-15-6inch-fullhd-1-1729594099.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>7Star</manufacturer>
@@ -45210,8 +45057,8 @@
       <name>Capac Baterie Apple iPhone 15 Pro Max, Alb (White Titanium), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-15-pro-max-alb-white-titanium-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/199732/capac-baterie-apple-iphone-1-1738846527.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -50718,8 +50565,8 @@
       <name>Display cu Touchscreen MP compatibil cu Google Pixel 6, Versiune OLED</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-mp-compatibil-cu-google-pixel-6-versiune-oled</link>
       <image>https://img.gsmnet.ro/600x600/products/201190/display-cu-touchscreen-mp-3-1745572054.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>MP</manufacturer>
@@ -55829,23 +55676,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Cablu Date si Incarcare USB-C - USB-C Baseus PicoGo, 240W, 1m, Roz P10376800411-00</description>
-    </product>
-    <product>
-      <uid>340194</uid>
-      <name>Banda Protectie Laterala Usa Auto Baseus, Set 4 bucati CRFZT-A02</name>
-      <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/banda-protectie-laterala-usa-auto-baseus-set-4-bucati-crfzt-a02</link>
-      <image>https://img.gsmnet.ro/600x600/products/202303/banda-protectie-laterala-usa-1-1743065967.jpg</image>
-      <price>19.83</price>
-      <price_with_vat>19.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Accesorii pentru interiorul mașinii</category>
-      <manufacturer>Baseus</manufacturer>
-      <mpn>CRFZT-A02</mpn>
-      <ean>6953156217515</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Banda Protectie Laterala Usa Auto Baseus, Set 4 bucati CRFZT-A02</description>
     </product>
     <product>
       <uid>340206</uid>
@@ -63413,23 +63243,6 @@
       <description>Adeziv Acumulator Samsung Galaxy S23 FE S711, Service Pack GH02-25479A</description>
     </product>
     <product>
-      <uid>341766</uid>
-      <name>Adeziv Acumulator Samsung Galaxy S23 Ultra S918, Service Pack GH02-24512A</name>
-      <link>https://www.gsmnet.ro/piese-componente-suruburi-adezivi/adeziv-acumulator-samsung-galaxy-s23-ultra-s918-service-pack-gh02-24512a</link>
-      <image>https://img.gsmnet.ro/600x600/products/203874/adeziv-acumulator-samsung-galaxy-1-1749540610.jpg</image>
-      <price>7.43</price>
-      <price_with_vat>7.43</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Samsung</manufacturer>
-      <mpn>GH02-24512A</mpn>
-      <ean>0660982720145</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Adeziv Acumulator Samsung Galaxy S23 Ultra S918, Service Pack GH02-24512A</description>
-    </product>
-    <product>
       <uid>341768</uid>
       <name>Baterie Externa Anker Zolo, 20000mAh, 30W, QC + PD, 1 x USB-A - 2 x USB-C, Neagra A1689H11</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-baterii-externe/baterie-externa-anker-zolo-20000mah-30w-qc-plus-pd-1-x-usb-a-2-x-usb-c-neagra-a1689h11</link>
@@ -70434,23 +70247,6 @@
       <description>Husa MagSafe pentru Apple iPhone 13, Techsuit, Luxury Crystal, Verde Deschis</description>
     </product>
     <product>
-      <uid>343043</uid>
-      <name>Husa pentru Apple iPhone 13, Techsuit, Carbon, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-13-techsuit-carbon-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/205150/husa-pentru-apple-iphone-13-techsuit-carbon-neagra-1751010111287.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>343043</mpn>
-      <ean>5949419041653</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone 13, Techsuit, Carbon, Neagra</description>
-    </product>
-    <product>
       <uid>343052</uid>
       <name>Husa pentru Apple iPhone 13 Pro, Techsuit, CamShield, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-13-pro-techsuit-camshield-neagra</link>
@@ -72659,23 +72455,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 15 Plus, Techsuit, SoftFlex, Mov</description>
-    </product>
-    <product>
-      <uid>343746</uid>
-      <name>Husa MagSafe pentru Apple iPhone 15 Plus, Techsuit, SoftFlex, Mov Deschis</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-15-plus-techsuit-softflex-mov-deschis</link>
-      <image>https://img.gsmnet.ro/600x600/products/205853/husa-magsafe-pentru-apple-iphone-15-plus-techsuit-softflex-mov-deschis-1751020250347.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>343746</mpn>
-      <ean>5949419232693</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 15 Plus, Techsuit, SoftFlex, Mov Deschis</description>
     </product>
     <product>
       <uid>343747</uid>
@@ -75534,23 +75313,6 @@
       <description>Husa MagSafe pentru Apple iPhone 16 Pro, Techsuit, Sparkly Glitter, Magenta</description>
     </product>
     <product>
-      <uid>344230</uid>
-      <name>Husa pentru Apple iPhone 16 Pro, Techsuit, Hybrid Armor, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-16-pro-techsuit-hybrid-armor-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/206337/husa-pentru-apple-iphone-16-pro-techsuit-hybrid-armor-neagra-1751022939878.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>344230</mpn>
-      <ean>5949419222632</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone 16 Pro, Techsuit, Hybrid Armor, Neagra</description>
-    </product>
-    <product>
       <uid>344233</uid>
       <name>Husa MagSafe pentru Apple iPhone 16 Pro, Techsuit, Luxury Crystal, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-16-pro-techsuit-luxury-crystal-roz</link>
@@ -76943,23 +76705,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Apple iPhone XR, Techsuit, CamShield, Neagra</description>
-    </product>
-    <product>
-      <uid>344470</uid>
-      <name>Husa pentru Apple iPhone XR, Techsuit, Shockproof Clear, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-xr-techsuit-shockproof-clear-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/206577/husa-pentru-apple-iphone-xr-techsuit-shockproof-clear-transparenta-175102400329.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>344470</mpn>
-      <ean>5949419082779</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone XR, Techsuit, Shockproof Clear, Transparenta</description>
     </product>
     <product>
       <uid>344491</uid>
@@ -81280,23 +81025,6 @@
       <description>Husa pentru Honor X7b 5G / 90 Smart / X7b 4G, Techsuit, Wave Shield, Galbena</description>
     </product>
     <product>
-      <uid>345252</uid>
-      <name>Husa pentru Honor X7b 5G / 90 Smart / X7b 4G, Techsuit, Wave Shield, Mov</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-honor-x7b-5g-90-smart-x7b-4g-techsuit-wave-shield-mov</link>
-      <image>https://img.gsmnet.ro/600x600/products/207359/husa-pentru-honor-x7b-5g-90-smart-x7b-4g-techsuit-wave-shield-mov-1751622119961.jpg</image>
-      <price>6.19</price>
-      <price_with_vat>6.19</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>345252</mpn>
-      <ean>5949419141308</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Honor X7b 5G / 90 Smart / X7b 4G, Techsuit, Wave Shield, Mov</description>
-    </product>
-    <product>
       <uid>345253</uid>
       <name>Husa pentru Honor X7b 5G / 90 Smart / X7b 4G, Techsuit, Wave Shield, Turcoaz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-honor-x7b-5g-90-smart-x7b-4g-techsuit-wave-shield-turcoaz</link>
@@ -84748,23 +84476,6 @@
       <description>Husa pentru Huawei P20 Pro, Techsuit, eFold, Neagra</description>
     </product>
     <product>
-      <uid>345844</uid>
-      <name>Husa pentru Huawei P30, Techsuit, eFold, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-huawei-p30-techsuit-efold-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/207951/husa-pentru-huawei-p30-techsuit-efold-neagra-1751628438508.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>345844</mpn>
-      <ean>5949419057357</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Huawei P30, Techsuit, eFold, Neagra</description>
-    </product>
-    <product>
       <uid>345852</uid>
       <name>Husa pentru Huawei P30 lite New Edition / P30 lite, Techsuit, CamShield, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-huawei-p30-lite-new-edition-p30-lite-techsuit-camshield-neagra</link>
@@ -86769,23 +86480,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Motorola Edge 50 Pro, Techsuit, Magskin Book, Neagra</description>
-    </product>
-    <product>
-      <uid>346280</uid>
-      <name>Husa pentru Motorola Edge 50 Pro, Techsuit, Carbonite FiberShell, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-edge-50-pro-techsuit-carbonite-fibershell-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/208387/husa-pentru-motorola-edge-50-pro-techsuit-carbonite-fibershell-verde-175162977769.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>346280</mpn>
-      <ean>5949419207509</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Edge 50 Pro, Techsuit, Carbonite FiberShell, Verde</description>
     </product>
     <product>
       <uid>346281</uid>
@@ -88826,23 +88520,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Motorola Moto G84, Techsuit, CamShield, Neagra</description>
-    </product>
-    <product>
-      <uid>346745</uid>
-      <name>Husa pentru Motorola Moto G84, Techsuit, Shockproof Clear, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-moto-g84-techsuit-shockproof-clear-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/208852/husa-pentru-motorola-moto-g84-techsuit-shockproof-clear-transparenta-1751631111661.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>346745</mpn>
-      <ean>5949419082847</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Moto G84, Techsuit, Shockproof Clear, Transparenta</description>
     </product>
     <product>
       <uid>346748</uid>
@@ -106304,23 +105981,6 @@
       <description>Husa pentru Samsung Galaxy Note 10+ 5G N976 / Note 10+ N975, Techsuit, Shockproof Clear, Transparenta</description>
     </product>
     <product>
-      <uid>349192</uid>
-      <name>Husa pentru Samsung Galaxy Note 10+ 5G N976 / Note 10+ N975, Techsuit, eFold, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-note-10-plus-5g-n976-note-10-plus-n975-techsuit-efold-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/211299/husa-pentru-samsung-galaxy-note-10-plus-5g-n976-note-10-plus-n975-techsuit-efold-neagra-1751873727813.jpg</image>
-      <price>19.83</price>
-      <price_with_vat>19.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>349192</mpn>
-      <ean>5949419057074</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy Note 10+ 5G N976 / Note 10+ N975, Techsuit, eFold, Neagra</description>
-    </product>
-    <product>
       <uid>349193</uid>
       <name>Husa pentru Samsung Galaxy Note 10+ 5G N976 / Note 10+ N975, Techsuit, Carbon, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-note-10-plus-5g-n976-note-10-plus-n975-techsuit-carbon-neagra</link>
@@ -114260,23 +113920,6 @@
       <description>Husa pentru Samsung Galaxy S25 Ultra S938, Techsuit, SoftFlex, Bleumarin</description>
     </product>
     <product>
-      <uid>350405</uid>
-      <name>Husa pentru Samsung Galaxy S25 Ultra S938, Techsuit, SoftFlex, Visinie</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-s25-ultra-s938-techsuit-softflex-visinie</link>
-      <image>https://img.gsmnet.ro/600x600/products/212512/husa-pentru-samsung-galaxy-s25-ultra-s938-techsuit-softflex-visinie-1751889406101.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>350405</mpn>
-      <ean>5949419254404</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy S25 Ultra S938, Techsuit, SoftFlex, Visinie</description>
-    </product>
-    <product>
       <uid>350406</uid>
       <name>Husa pentru Samsung Galaxy S25 Ultra S938, Techsuit, SoftFlex, Roz Inchis</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-s25-ultra-s938-techsuit-softflex-roz-inchis</link>
@@ -118595,23 +118238,6 @@
       <description>Husa pentru Xiaomi Poco C40, Techsuit, Shockproof Clear, Transparenta</description>
     </product>
     <product>
-      <uid>351328</uid>
-      <name>Husa pentru Xiaomi Poco C65 / Redmi 13C, Techsuit, CamShield, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-c65-redmi-13c-techsuit-camshield-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/213435/husa-pentru-xiaomi-poco-c65-redmi-13c-techsuit-camshield-neagra-1751961385507.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>351328</mpn>
-      <ean>5949419080553</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Poco C65 / Redmi 13C, Techsuit, CamShield, Neagra</description>
-    </product>
-    <product>
       <uid>351331</uid>
       <name>Husa cu Protectie Camera pentru Xiaomi Poco C65 / Redmi 13C, Techsuit, Shockproof Clear, Transparenta</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-cu-protectie-camera-pentru-xiaomi-poco-c65-redmi-13c-techsuit-shockproof-clear-transparenta</link>
@@ -118797,23 +118423,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Xiaomi Poco C75 / Redmi 14C, Techsuit, Leather Folio, Neagra</description>
-    </product>
-    <product>
-      <uid>351363</uid>
-      <name>Husa pentru Xiaomi Poco C75 / Redmi 14C, Techsuit, Leather Folio, Maro</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-c75-redmi-14c-techsuit-leather-folio-maro</link>
-      <image>https://img.gsmnet.ro/600x600/products/213470/husa-pentru-xiaomi-poco-c75-redmi-14c-techsuit-leather-folio-maro-175196148287.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>351363</mpn>
-      <ean>5949419245549</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Poco C75 / Redmi 14C, Techsuit, Leather Folio, Maro</description>
     </product>
     <product>
       <uid>351364</uid>
@@ -120956,23 +120565,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Xiaomi Poco X7 Pro, Techsuit, ColorVerse 360, Roz</description>
-    </product>
-    <product>
-      <uid>351710</uid>
-      <name>Husa pentru Xiaomi Poco X7 Pro, Techsuit, ColorVerse 360, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-x7-pro-techsuit-colorverse-360-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/213817/husa-pentru-xiaomi-poco-x7-pro-techsuit-colorverse-360-albastra-1751963334661.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>351710</mpn>
-      <ean>5949419278790</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Poco X7 Pro, Techsuit, ColorVerse 360, Albastra</description>
     </product>
     <product>
       <uid>351713</uid>
@@ -123389,23 +122981,6 @@
       <description>Husa pentru Xiaomi Redmi Note 13 Pro+, Techsuit, eFold, Rosie</description>
     </product>
     <product>
-      <uid>352079</uid>
-      <name>Husa pentru Xiaomi Redmi Note 13 Pro+, Techsuit, Diary Book, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-13-pro-plus-techsuit-diary-book-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/214186/husa-pentru-xiaomi-redmi-note-13-pro-plus-techsuit-diary-book-neagra-175196502524.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>352079</mpn>
-      <ean>5949419107267</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi Note 13 Pro+, Techsuit, Diary Book, Neagra</description>
-    </product>
-    <product>
       <uid>352080</uid>
       <name>Husa pentru Xiaomi Redmi Note 13 Pro+, Techsuit, Confy, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-13-pro-plus-techsuit-confy-neagra</link>
@@ -125410,23 +124985,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa Universala pentru Telefon max. 6.5inch, Techsuit, Sports TH10, Gri</description>
-    </product>
-    <product>
-      <uid>352395</uid>
-      <name>Husa Techsuit Silicone pentru Apple AirPods 4 / AirPods 5, Verde Inchis</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-techsuit-silicone-pentru-apple-airpods-4-airpods-5-verde-inchis</link>
-      <image>https://img.gsmnet.ro/600x600/products/214502/husa-techsuit-silicone-case-pentru-apple-airpods-4-verde-inchis-1751970110341.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>352395</mpn>
-      <ean>5949419250642</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa Techsuit Silicone pentru Apple AirPods 4 / AirPods 5, Verde Inchis</description>
     </product>
     <product>
       <uid>352397</uid>
@@ -130937,23 +130495,6 @@
       <description>Husa pentru Samsung Galaxy A36 A366, Techsuit, Magskin Book, Neagra</description>
     </product>
     <product>
-      <uid>353023</uid>
-      <name>Husa pentru Samsung Galaxy A56 A566 / A36 A366, Techsuit, Magic Shield, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a56-a566-a36-a366-techsuit-magic-shield-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/215130/husa-pentru-samsung-galaxy-a56-a566-a36-a366-techsuit-magic-shield-verde-1752151471941.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>353023</mpn>
-      <ean>5949419261907</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy A56 A566 / A36 A366, Techsuit, Magic Shield, Verde</description>
-    </product>
-    <product>
       <uid>353024</uid>
       <name>Husa pentru Samsung Galaxy A56 A566 / A36 A366, Techsuit, Magic Shield, Rosie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a56-a566-a36-a366-techsuit-magic-shield-rosie</link>
@@ -131700,23 +131241,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Motorola Edge 60 Pro, Techsuit, Glinth, Neagra</description>
-    </product>
-    <product>
-      <uid>353091</uid>
-      <name>Husa pentru Motorola Edge 60 Pro, Techsuit, Magic Shield, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-edge-60-pro-techsuit-magic-shield-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/215198/husa-pentru-motorola-edge-60-pro-techsuit-magic-shield-neagra-1752151643530.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>353091</mpn>
-      <ean>5949419294882</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Edge 60 Pro, Techsuit, Magic Shield, Neagra</description>
     </product>
     <product>
       <uid>353092</uid>
@@ -134065,23 +133589,6 @@
       <description>Husa MagSafe pentru Samsung Galaxy XCover7 Pro, Techsuit, HaloFrost II, Neagra</description>
     </product>
     <product>
-      <uid>353265</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy XCover7 Pro, Techsuit, HaloFrost II, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-xcover7-pro-techsuit-halofrost-ii-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/215372/husa-magsafe-pentru-samsung-galaxy-xcover7-pro-techsuit-halofrost-ii-verde-1752152235378.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>353265</mpn>
-      <ean>5949419296084</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy XCover7 Pro, Techsuit, HaloFrost II, Verde</description>
-    </product>
-    <product>
       <uid>353267</uid>
       <name>Husa MagSafe pentru Samsung Galaxy XCover7 Pro, Techsuit, HaloFrost II, Mov</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-xcover7-pro-techsuit-halofrost-ii-mov</link>
@@ -135527,23 +135034,6 @@
       <description>Husa pentru Oppo Reno4 Lite, Techsuit, Shockproof Clear, Fumurie</description>
     </product>
     <product>
-      <uid>353493</uid>
-      <name>Husa pentru Oppo Reno6 5G, Techsuit, Shockproof Clear, Fumurie</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-oppo-reno6-5g-techsuit-shockproof-clear-fumurie</link>
-      <image>https://img.gsmnet.ro/600x600/products/215600/husa-pentru-oppo-reno6-5g-techsuit-shockproof-clear-neagra-1752152509472.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>353493</mpn>
-      <ean>5949419298422</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Oppo Reno6 5G, Techsuit, Shockproof Clear, Fumurie</description>
-    </product>
-    <product>
       <uid>353503</uid>
       <name>Husa pentru Huawei P30 lite New Edition / P30 lite, Techsuit, Shockproof Clear, Fumurie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-huawei-p30-lite-new-edition-p30-lite-techsuit-shockproof-clear-fumurie</link>
@@ -136970,23 +136460,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Acumulator Honor Pad 10, Service Pack 0235APMM</description>
-    </product>
-    <product>
-      <uid>353623</uid>
-      <name>Acumulator Honor Magic7 Pro, Service Pack 0235AMRU</name>
-      <link>https://www.gsmnet.ro/piese-componente-acumulatori/acumulator-honor-magic7-pro-service-pack-0235amru</link>
-      <image>https://img.gsmnet.ro/600x600/products/215730/acumulator-honor-magic7-pro-1-1780563356.jpg</image>
-      <price>90.51</price>
-      <price_with_vat>90.51</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Honor</manufacturer>
-      <mpn>0235AMRU</mpn>
-      <ean>0660982760592</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Acumulator Honor Magic7 Pro, Service Pack 0235AMRU</description>
     </product>
     <product>
       <uid>353624</uid>
@@ -141137,23 +140610,6 @@
       <description>Husa pentru Xiaomi Poco C75 / Redmi 14C, Techsuit, Carbon Shield Pro, Fumurie</description>
     </product>
     <product>
-      <uid>354147</uid>
-      <name>Husa pentru Xiaomi Redmi Note 14 5G, Techsuit, Carbon Shield Pro, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-14-5g-techsuit-carbon-shield-pro-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/216254/husa-pentru-xiaomi-redmi-note-14-5g-techsuit-carbon-shield-pro-neagra-1753692685585.jpg</image>
-      <price>19.83</price>
-      <price_with_vat>19.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>354147</mpn>
-      <ean>5949419308718</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi Note 14 5G, Techsuit, Carbon Shield Pro, Neagra</description>
-    </product>
-    <product>
       <uid>354160</uid>
       <name>Husa pentru OnePlus Nord 4, Techsuit, Carbon Shield Pro, Fumurie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-oneplus-nord-4-techsuit-carbon-shield-pro-fumurie</link>
@@ -141594,23 +141050,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Google Pixel 10 Pro XL, Techsuit, Diary Book, Neagra</description>
-    </product>
-    <product>
-      <uid>354213</uid>
-      <name>Husa pentru Google Pixel 10 Pro / 10, Techsuit, Leather Folio, Maro</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-google-pixel-10-pro-10-techsuit-leather-folio-maro</link>
-      <image>https://img.gsmnet.ro/600x600/products/216320/husa-pentru-google-pixel-10-pro-10-techsuit-leather-folio-maro-1753650036463.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>354213</mpn>
-      <ean>5949419283343</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Google Pixel 10 Pro / 10, Techsuit, Leather Folio, Maro</description>
     </product>
     <product>
       <uid>354214</uid>
@@ -144911,23 +144350,6 @@
       <description>Husa MagSafe pentru Apple iPhone 15 Pro Max, Techsuit, SmartMag Book, Maro</description>
     </product>
     <product>
-      <uid>354602</uid>
-      <name>Husa MagSafe pentru Apple iPhone 15 Pro Max, Techsuit, SmartMag Book, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-15-pro-max-techsuit-smartmag-book-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/216714/husa-magsafe-pentru-apple-iphone-15-pro-max-techsuit-smartmag-book-verde-1753652111497.jpg</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>354602</mpn>
-      <ean>5949419306967</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 15 Pro Max, Techsuit, SmartMag Book, Verde</description>
-    </product>
-    <product>
       <uid>354604</uid>
       <name>Husa MagSafe pentru Apple iPhone 15 Pro Max, Techsuit, SmartMag Book, Bleu</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-15-pro-max-techsuit-smartmag-book-bleu</link>
@@ -145232,23 +144654,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Samsung Galaxy S23 S911, Techsuit, SmartMag Book, Bleu</description>
-    </product>
-    <product>
-      <uid>354677</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy S23 S911, Techsuit, SmartMag Book, Gri</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s23-s911-techsuit-smartmag-book-gri</link>
-      <image>https://img.gsmnet.ro/600x600/products/216789/husa-magsafe-pentru-samsung-galaxy-s23-s911-techsuit-smartmag-book-gri-175368932261.jpg</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>354677</mpn>
-      <ean>5949419305892</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy S23 S911, Techsuit, SmartMag Book, Gri</description>
     </product>
     <product>
       <uid>354680</uid>
@@ -149620,23 +149025,6 @@
       <description>Husa MagSafe pentru Samsung Galaxy S25+ S936 / S24+ S926, Techsuit, CandyCase, Neagra</description>
     </product>
     <product>
-      <uid>355112</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy S25+ S936 / S24+ S926, Techsuit, CandyCase, Alba</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s25-plus-s936-s24-plus-s926-techsuit-candycase-alba</link>
-      <image>https://img.gsmnet.ro/600x600/products/217226/husa-magsafe-pentru-samsung-galaxy-s25-plus-s936-s24-plus-s926-techsuit-candycase-alba-1753691554414.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>355112</mpn>
-      <ean>5949419312753</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy S25+ S936 / S24+ S926, Techsuit, CandyCase, Alba</description>
-    </product>
-    <product>
       <uid>355113</uid>
       <name>Husa MagSafe pentru Samsung Galaxy S25+ S936 / S24+ S926, Techsuit, CandyCase, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s25-plus-s936-s24-plus-s926-techsuit-candycase-roz</link>
@@ -151046,23 +150434,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Honor Magic7 Pro, Techsuit, CandyCase, Neagra</description>
-    </product>
-    <product>
-      <uid>355207</uid>
-      <name>Husa MagSafe pentru Honor Magic7 Pro, Techsuit, CandyCase, Alba</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-honor-magic7-pro-techsuit-candycase-alba</link>
-      <image>https://img.gsmnet.ro/600x600/products/217321/husa-magsafe-pentru-honor-magic7-pro-techsuit-candycase-alba-1753692358745.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>355207</mpn>
-      <ean>5949419311053</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Honor Magic7 Pro, Techsuit, CandyCase, Alba</description>
     </product>
     <product>
       <uid>355209</uid>
@@ -152595,23 +151966,6 @@
       <description>Husa pentru Xiaomi Redmi Note 14 5G, Techsuit, Carbon Shield Pro, Albastra</description>
     </product>
     <product>
-      <uid>355348</uid>
-      <name>Husa pentru Xiaomi Poco X7 / Redmi Note 14 Pro 5G, Techsuit, Carbon Shield Pro, Alba</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-x7-redmi-note-14-pro-5g-techsuit-carbon-shield-pro-alba</link>
-      <image>https://img.gsmnet.ro/600x600/products/217462/husa-pentru-xiaomi-poco-x7-redmi-note-14-pro-5g-techsuit-carbon-shield-pro-alba-1753692689282.jpg</image>
-      <price>19.83</price>
-      <price_with_vat>19.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>355348</mpn>
-      <ean>5949419308640</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Poco X7 / Redmi Note 14 Pro 5G, Techsuit, Carbon Shield Pro, Alba</description>
-    </product>
-    <product>
       <uid>355349</uid>
       <name>Husa pentru Xiaomi Poco X7 / Redmi Note 14 Pro 5G, Techsuit, Carbon Shield Pro, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-x7-redmi-note-14-pro-5g-techsuit-carbon-shield-pro-roz</link>
@@ -152695,23 +152049,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Motorola Edge 50 Pro, Techsuit, Carbon Shield Pro, Albastra</description>
-    </product>
-    <product>
-      <uid>355357</uid>
-      <name>Husa pentru Motorola Edge 50 Pro, Techsuit, Carbon Shield Pro, Mov</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-edge-50-pro-techsuit-carbon-shield-pro-mov</link>
-      <image>https://img.gsmnet.ro/600x600/products/217471/husa-pentru-motorola-edge-50-pro-techsuit-carbon-shield-pro-mov-1753692703676.jpg</image>
-      <price>19.83</price>
-      <price_with_vat>19.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>355357</mpn>
-      <ean>5949419308428</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Edge 50 Pro, Techsuit, Carbon Shield Pro, Mov</description>
     </product>
     <product>
       <uid>355362</uid>
@@ -153358,23 +152695,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Xiaomi Redmi Note 14 5G, Techsuit, ArmorMag, Neagra</description>
-    </product>
-    <product>
-      <uid>355601</uid>
-      <name>Husa MagSafe pentru Xiaomi Redmi Note 14 5G, Techsuit, ArmorMag, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-redmi-note-14-5g-techsuit-armormag-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/217716/husa-magsafe-pentru-xiaomi-redmi-note-14-5g-techsuit-armormag-albastra-1753694133669.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>355601</mpn>
-      <ean>5949419315822</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Xiaomi Redmi Note 14 5G, Techsuit, ArmorMag, Albastra</description>
     </product>
     <product>
       <uid>355602</uid>
@@ -161843,23 +161163,6 @@
       <description>Folie de protectie Ecran Smart Protection Premium Classic pentru Samsung Galaxy S23+ S916, Plastic, Set 2 bucati</description>
     </product>
     <product>
-      <uid>356563</uid>
-      <name>Folie de protectie Ecran Smart Protection Premium Classic pentru Samsung Galaxy S23 Ultra S918, Plastic, Set 2 bucati</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-smart-protection-premium-classic-pentru-samsung-galaxy-s23-ultra-s918-plastic-set-2-bucati</link>
-      <image>https://img.gsmnet.ro/600x600/products/218679/folie-de-protectie-ecran-smart-protection-premium-classic-pentru-samsung-galaxy-s23-ultra-s918-plastic-set-2-bucati-1754128815180.jpg</image>
-      <price>30.99</price>
-      <price_with_vat>30.99</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Smart Protection</manufacturer>
-      <mpn>356563</mpn>
-      <ean>5949419225718</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Smart Protection Premium Classic pentru Samsung Galaxy S23 Ultra S918, Plastic, Set 2 bucati</description>
-    </product>
-    <product>
       <uid>356565</uid>
       <name>Folie de protectie Ecran Smart Protection Premium Classic pentru Apple iPhone 15 Pro, Plastic, Set 2 bucati</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-smart-protection-premium-classic-pentru-apple-iphone-15-pro-plastic-set-2-bucati</link>
@@ -161892,23 +161195,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Smart Protection Premium Classic pentru Apple iPhone 15 Pro Max, Plastic, Set 2 bucati</description>
-    </product>
-    <product>
-      <uid>356570</uid>
-      <name>Folie de protectie Ecran Smart Protection Premium Classic pentru Samsung Galaxy S24 S921, Plastic, Set 2 bucati</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-smart-protection-premium-classic-pentru-samsung-galaxy-s24-s921-plastic-set-2-bucati</link>
-      <image>https://img.gsmnet.ro/600x600/products/218686/folie-de-protectie-ecran-smart-protection-premium-classic-pentru-samsung-galaxy-s24-s921-plastic-set-2-bucati-1754128843437.jpg</image>
-      <price>30.99</price>
-      <price_with_vat>30.99</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Smart Protection</manufacturer>
-      <mpn>356570</mpn>
-      <ean>5949419225619</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Smart Protection Premium Classic pentru Samsung Galaxy S24 S921, Plastic, Set 2 bucati</description>
     </product>
     <product>
       <uid>356571</uid>
@@ -165260,23 +164546,6 @@
       <description>Folie de protectie Ecran Techsuit pentru Xiaomi Redmi Note 13 4G, Sticla Securizata, Full Glue, 111D, Neagra</description>
     </product>
     <product>
-      <uid>357018</uid>
-      <name>Folie de protectie Ecran Techsuit pentru OnePlus Nord 3, Sticla Securizata, Full Glue, 111D, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-techsuit-pentru-oneplus-nord-3-sticla-securizata-full-glue-111d-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/219134/folie-de-protectie-ecran-techsuit-pentru-oneplus-nord-3-sticla-securizata-full-glue-111d-neagra-1754129958929.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>357018</mpn>
-      <ean>5949419092884</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Techsuit pentru OnePlus Nord 3, Sticla Securizata, Full Glue, 111D, Neagra</description>
-    </product>
-    <product>
       <uid>357023</uid>
       <name>Folie de protectie Ecran Privacy Techsuit pentru Samsung Galaxy S25 S931 / S24 S921, Sticla Securizata, Full Glue, 111D</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-privacy-techsuit-pentru-samsung-galaxy-s25-s931-s24-s921-sticla-securizata-full-glue-111d</link>
@@ -165445,23 +164714,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Privacy Techsuit pentru Apple iPhone 12 Pro Max, Sticla Securizata, Full Glue, 111D</description>
-    </product>
-    <product>
-      <uid>357036</uid>
-      <name>Folie de protectie Ecran Privacy Techsuit pentru Apple iPhone 14 Pro Max, Sticla Securizata, Full Glue, 111D</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-privacy-techsuit-pentru-apple-iphone-14-pro-max-sticla-securizata-full-glue-111d</link>
-      <image>https://img.gsmnet.ro/600x600/products/219152/folie-de-protectie-ecran-privacy-techsuit-pentru-apple-iphone-14-pro-max-sticla-securizata-full-glue-111d-1754129991644.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>357036</mpn>
-      <ean>5949419126688</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Privacy Techsuit pentru Apple iPhone 14 Pro Max, Sticla Securizata, Full Glue, 111D</description>
     </product>
     <product>
       <uid>357037</uid>
@@ -165751,23 +165003,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Privacy Techsuit pentru Xiaomi Redmi Note 13 5G, Sticla Securizata, Full Glue, 111D</description>
-    </product>
-    <product>
-      <uid>357061</uid>
-      <name>Folie de protectie Ecran Privacy Techsuit pentru Xiaomi Poco X6 / Redmi Note 13 Pro 5G, Sticla Securizata, Full Glue, 111D</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-privacy-techsuit-pentru-xiaomi-poco-x6-redmi-note-13-pro-5g-sticla-securizata-full-glue-111d</link>
-      <image>https://img.gsmnet.ro/600x600/products/219177/folie-de-protectie-ecran-privacy-techsuit-pentru-xiaomi-poco-x6-redmi-note-13-pro-5g-sticla-securizata-full-glue-111d-1754130021835.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>357061</mpn>
-      <ean>5949419140158</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Privacy Techsuit pentru Xiaomi Poco X6 / Redmi Note 13 Pro 5G, Sticla Securizata, Full Glue, 111D</description>
     </product>
     <product>
       <uid>357062</uid>
@@ -174274,8 +173509,8 @@
       <name>Card Memorie microSDXC SanDisk Extreme Pro, 256Gb, Clasa 10 / UHS-1 U3, Cu Adaptor SDSQXCD-256G-GN6MA</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-carduri-memorii-usb/card-memorie-microsdxc-sandisk-extreme-pro-256gb-clasa-10-uhs-1-u3-cu-adaptor-sdsqxcd-256g-gn6ma</link>
       <image>https://img.gsmnet.ro/600x600/products/220086/card-memorie-microsdxc-sandisk-1-1755846804.jpg</image>
-      <price>177.31</price>
-      <price_with_vat>177.31</price_with_vat>
+      <price>178.55</price>
+      <price_with_vat>178.55</price_with_vat>
       <vat>24.00</vat>
       <category>Carduri de memorie</category>
       <manufacturer>SanDisk</manufacturer>
@@ -175934,23 +175169,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 13 Pro, Techsuit, PureFrost, Neagra Satinata</description>
-    </product>
-    <product>
-      <uid>358234</uid>
-      <name>Husa MagSafe pentru Apple iPhone 14 Pro, Techsuit, PureFrost, Neagra Satinata</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-14-pro-techsuit-purefrost-neagra-satinata</link>
-      <image>https://img.gsmnet.ro/600x600/products/220354/husa-magsafe-pentru-apple-iphone-14-pro-techsuit-purefrost-neagra-1755690138961.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>358234</mpn>
-      <ean>5949419321359</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 14 Pro, Techsuit, PureFrost, Neagra Satinata</description>
     </product>
     <product>
       <uid>358236</uid>
@@ -178365,23 +177583,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Techsuit pentru Apple iPhone 12 / 12 Pro, Sticla Securizata, Full Glue, Neagra</description>
-    </product>
-    <product>
-      <uid>358437</uid>
-      <name>Folie de protectie Ecran Techsuit pentru Apple iPhone 12 mini, Sticla Securizata, Full Glue, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-techsuit-pentru-apple-iphone-12-mini-sticla-securizata-full-glue-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/220558/folie-de-protectie-ecran-techsuit-pentru-apple-iphone-12-mini-sticla-securizata-full-glue-neagra-1755690591244.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>358437</mpn>
-      <ean>5949419323193</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Techsuit pentru Apple iPhone 12 mini, Sticla Securizata, Full Glue, Neagra</description>
     </product>
     <product>
       <uid>358438</uid>
@@ -182162,8 +181363,8 @@
       <name>Camera Spate Huawei Pura 80 Ultra, 50MP (Wide), cu banda, Service Pack 23061035-001</name>
       <link>https://www.gsmnet.ro/piese-componente-piese/camera-spate-huawei-pura-80-ultra-50mp-wide-cu-banda-service-pack-23061035-001</link>
       <image>https://img.gsmnet.ro/600x600/products/220886/camera-spate-huawei-pura-1-1758034734.jpg</image>
-      <price>462.51</price>
-      <price_with_vat>462.51</price_with_vat>
+      <price>463.75</price>
+      <price_with_vat>463.75</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -182859,8 +182060,8 @@
       <name>Camera Spate Huawei Pura 80 Ultra, 50MP + 12.5 MP (Telephoto), Service Pack 99090BQD</name>
       <link>https://www.gsmnet.ro/piese-componente-piese/camera-spate-huawei-pura-80-ultra-50mp-plus-12-5-mp-telephoto-service-pack-99090bqd</link>
       <image>https://img.gsmnet.ro/600x600/products/220943/camera-spate-huawei-pura-1-1793017067.jpg</image>
-      <price>879.15</price>
-      <price_with_vat>879.15</price_with_vat>
+      <price>880.39</price>
+      <price_with_vat>880.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -183114,8 +182315,8 @@
       <name>Display cu Touchscreen MP compatibil cu Apple iPhone 15, cu Rama, Versiune Soft OLED FHD Diagnostic, Negru</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-mp-compatibil-cu-apple-iphone-15-cu-rama-versiune-soft-oled-fhd-diagnostic-negru</link>
       <image>https://img.gsmnet.ro/600x600/products/220981/display-cu-touchscreen-mp-3-1778851048.png</image>
-      <price>286.43</price>
-      <price_with_vat>286.43</price_with_vat>
+      <price>287.67</price>
+      <price_with_vat>287.67</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>MP</manufacturer>
@@ -186459,23 +185660,6 @@
       <description>Husa pentru Motorola Moto G15 / G15 Power, Techsuit, Clear, Transparenta</description>
     </product>
     <product>
-      <uid>359305</uid>
-      <name>Husa pentru Motorola Moto G15 / G15 Power, Techsuit, CamShield, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-moto-g15-g15-power-techsuit-camshield-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/221417/husa-pentru-motorola-moto-g15-g15-power-techsuit-camshield-albastra-1757361005807.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>359305</mpn>
-      <ean>5949419328068</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Moto G15 / G15 Power, Techsuit, CamShield, Albastra</description>
-    </product>
-    <product>
       <uid>359311</uid>
       <name>Husa pentru Motorola Moto G15 / G15 Power, Techsuit, Glinth, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-moto-g15-g15-power-techsuit-glinth-neagra</link>
@@ -187511,23 +186695,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Apple iPhone 17 Air, 3MK, Armor, Transparenta</description>
-    </product>
-    <product>
-      <uid>359436</uid>
-      <name>Husa pentru Apple iPhone 17 Pro Max, 3MK, Armor, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-17-pro-max-3mk-armor-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/221548/husa-pentru-apple-iphone-17-pro-max-3mk-armor-transparenta-1757586662306.jpg</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>3MK</manufacturer>
-      <mpn>359436</mpn>
-      <ean>5903108665025</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone 17 Pro Max, 3MK, Armor, Transparenta</description>
     </product>
     <product>
       <uid>359438</uid>
@@ -192307,23 +191474,6 @@
       <description>Husa MagSafe pentru Apple iPhone 17, Guess, Grained Gold Ring, Neagra</description>
     </product>
     <product>
-      <uid>359941</uid>
-      <name>Husa pentru Apple iPhone 17, Guess, 4G Classic, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-17-guess-4g-classic-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/222053/husa-pentru-apple-iphone-17-guess-4g-classic-neagra-1757925956695.jpg</image>
-      <price>43.39</price>
-      <price_with_vat>43.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Guess</manufacturer>
-      <mpn>359941</mpn>
-      <ean>3666339556181</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone 17, Guess, 4G Classic, Neagra</description>
-    </product>
-    <product>
       <uid>359943</uid>
       <name>Husa MagSafe pentru Apple iPhone 17, Guess, 4G Classic Logo, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-17-guess-4g-classic-logo-neagra</link>
@@ -195586,23 +194736,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 16 Pro Max, 3MK, ComfortDuo, Transparenta</description>
-    </product>
-    <product>
-      <uid>360425</uid>
-      <name>Husa MagSafe pentru Motorola Moto G15 / G15 Power, Techsuit, Shockproof, Fumurie</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-motorola-moto-g15-g15-power-techsuit-shockproof-fumurie</link>
-      <image>https://img.gsmnet.ro/600x600/products/222537/husa-magsafe-pentru-motorola-moto-g15-g15-power-techsuit-shockproof-neagra-1758017799517.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>360425</mpn>
-      <ean>5949419328105</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Motorola Moto G15 / G15 Power, Techsuit, Shockproof, Fumurie</description>
     </product>
     <product>
       <uid>360428</uid>
@@ -202694,23 +201827,6 @@
       <description>Husa pentru Samsung Galaxy S25 FE, Techsuit, Confy, Neagra</description>
     </product>
     <product>
-      <uid>361418</uid>
-      <name>Husa pentru Samsung Galaxy S25 FE, Techsuit, Leather Folio, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-s25-fe-techsuit-leather-folio-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/223530/husa-pentru-samsung-galaxy-s25-fe-techsuit-leather-folio-neagra-1758793078118.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>361418</mpn>
-      <ean>5949419325661</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy S25 FE, Techsuit, Leather Folio, Neagra</description>
-    </product>
-    <product>
       <uid>361419</uid>
       <name>Husa pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, Leather Folio, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-leather-folio-neagra</link>
@@ -206557,8 +205673,8 @@
       <name>Extender Wireless HDMI UGREEN CM506, 1080P, Gri</name>
       <link>https://www.gsmnet.ro/accesorii-pc-laptop-accesorii-audio-video/extender-wireless-hdmi-ugreen-cm506-1080p-gri</link>
       <image>https://img.gsmnet.ro/600x600/products/224177/extender-wireless-hdmi-ugreen-10-1759737889.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Accesorii diverse pentru TV și video</category>
       <manufacturer>UGREEN</manufacturer>
@@ -207690,23 +206806,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Samsung Galaxy Z Flip7 F766, Spigen, Ultra Hybrid Pro, Transparenta ACS09559</description>
-    </product>
-    <product>
-      <uid>362167</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy Z Flip7 F766, Spigen, Ultra Hybrid Pro Neo One, Transparenta ACS09560</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-z-flip7-f766-spigen-ultra-hybrid-pro-neo-one-transparenta-acs09560</link>
-      <image>https://img.gsmnet.ro/600x600/products/224279/husa-magsafe-pentru-samsung-galaxy-z-flip7-f766-spigen-ultra-hybrid-pro-neo-one-transparenta-1759758900727.jpg</image>
-      <price>105.39</price>
-      <price_with_vat>105.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Spigen</manufacturer>
-      <mpn>ACS09560</mpn>
-      <ean>8800283303957</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy Z Flip7 F766, Spigen, Ultra Hybrid Pro Neo One, Transparenta ACS09560</description>
     </product>
     <product>
       <uid>362170</uid>
@@ -210206,23 +209305,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 16 Pro Max, Ringke, Onyx, Neagra</description>
-    </product>
-    <product>
-      <uid>362996</uid>
-      <name>Husa MagSafe pentru Apple iPhone 16 Pro Max, Ringke, Silicone, Crem</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-16-pro-max-ringke-silicone-crem</link>
-      <image>https://img.gsmnet.ro/600x600/products/225108/husa-magsafe-pentru-apple-iphone-16-pro-max-ringke-silicone-crem-175976237866.jpg</image>
-      <price>38.43</price>
-      <price_with_vat>38.43</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>362996</mpn>
-      <ean>8809961789656</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 16 Pro Max, Ringke, Silicone, Crem</description>
     </product>
     <product>
       <uid>363009</uid>
@@ -213334,23 +212416,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Samsung Galaxy S24 S921, Ringke, Silicone, Neagra</description>
-    </product>
-    <product>
-      <uid>363611</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy S24 Ultra S928, Ringke, Alles, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s24-ultra-s928-ringke-alles-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/225723/husa-magsafe-pentru-samsung-galaxy-s24-ultra-s928-ringke-alles-neagra-175977288769.jpg</image>
-      <price>50.83</price>
-      <price_with_vat>50.83</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>363611</mpn>
-      <ean>8809961784088</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy S24 Ultra S928, Ringke, Alles, Neagra</description>
     </product>
     <product>
       <uid>363612</uid>
@@ -220085,23 +219150,6 @@
       <description>Husa Blueo Liquid pentru Apple AirPods 4 / AirPods 5, Roz</description>
     </product>
     <product>
-      <uid>365421</uid>
-      <name>Husa Blueo Liquid pentru Apple AirPods 4 / AirPods 5, Albastra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-blueo-liquid-pentru-apple-airpods-4-airpods-5-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/227533/husa-blueo-liquid-pentru-apple-airpods-4-albastra-1759932905458.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Blueo</manufacturer>
-      <mpn>365421</mpn>
-      <ean>6934663750498</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa Blueo Liquid pentru Apple AirPods 4 / AirPods 5, Albastra</description>
-    </product>
-    <product>
       <uid>365429</uid>
       <name>Husa ESR Orbit Hybrid pentru Apple AirPods 4 / AirPods 5, Neagra</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-esr-orbit-hybrid-pentru-apple-airpods-4-airpods-5-neagra</link>
@@ -225083,23 +224131,6 @@
       <description>Capat Rezerva Gum Care pentru Periuta Electrica Bitvae S2 / S3, Set 4 bucati, Alb</description>
     </product>
     <product>
-      <uid>366178</uid>
-      <name>Capat Rezerva SDD2 pentru Periuta Electrica Bitvae D2, Set 4 bucati, Alb</name>
-      <link>https://www.gsmnet.ro/gadgeturi-utile/capat-rezerva-sdd2-pentru-periuta-electrica-bitvae-d2-set-4-bucati-alb</link>
-      <image>https://img.gsmnet.ro/600x600/products/228290/capat-rezerva-bitvae-sdd2-pentru-periuta-electrica-d2-set-4-bucati-alb-1760392876315.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse gadgeturi</category>
-      <manufacturer>Bitvae</manufacturer>
-      <mpn>366178</mpn>
-      <ean>6973734201743</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Capat Rezerva SDD2 pentru Periuta Electrica Bitvae D2, Set 4 bucati, Alb</description>
-    </product>
-    <product>
       <uid>366179</uid>
       <name>Capat Rezerva Gum Care pentru Periuta Electrica Bitvae S2 / S3, Set 4 bucati, Negru</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/capat-rezerva-gum-care-pentru-periuta-electrica-bitvae-s2-s3-set-4-bucati-negru</link>
@@ -228466,23 +227497,6 @@
       <description>Ochelari De Calculator Dama Techsuit PC28014-C8, Anti-Blue Light, Transparenti</description>
     </product>
     <product>
-      <uid>366625</uid>
-      <name>Ochelari De Calculator Dama Techsuit PC28016-C1, Anti-Blue Light, Negri</name>
-      <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-calculator-dama-techsuit-pc28016-c1-anti-blue-light-negri</link>
-      <image>https://img.gsmnet.ro/600x600/products/228737/ochelari-de-calculator-dama-techsuit-pc28016-c1-anti-blue-light-negrii-176039472376.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse gadgeturi</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>366625</mpn>
-      <ean>5949419011229</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Ochelari De Calculator Dama Techsuit PC28016-C1, Anti-Blue Light, Negri</description>
-    </product>
-    <product>
       <uid>366628</uid>
       <name>Ochelari De Soare Unisex Techsuit TR7545, Polarizati, Protectie UV, Negri Gri</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-unisex-techsuit-tr7545-polarizati-protectie-uv-negri-gri</link>
@@ -230850,8 +229864,8 @@
       <name>Display cu Touchscreen Realme 14 Pro+, cu Rama, Mov (Bikaner Purple), Service Pack 621039000081</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-realme-14-pro-plus-cu-rama-mov-bikaner-purple-service-pack-621039000081</link>
       <image>https://img.gsmnet.ro/600x600/products/228974/display-cu-touchscreen-realme-1-1768575302.jpg</image>
-      <price>286.43</price>
-      <price_with_vat>286.43</price_with_vat>
+      <price>287.67</price>
+      <price_with_vat>287.67</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Realme</manufacturer>
@@ -232567,8 +231581,8 @@
       <name>Husa MagSafe pentru Apple iPhone 17 Pro, Urban Armor Gear, Plyo, Roz Aurie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-17-pro-urban-armor-gear-plyo-roz-aurie</link>
       <image>https://img.gsmnet.ro/600x600/products/229137/husa-magsafe-pentru-apple-iphone-17-pro-urban-armor-gear-plyo-roz-aurie-1760527927787.jpg</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -232584,8 +231598,8 @@
       <name>Husa MagSafe pentru Apple iPhone 17 Pro Max, Urban Armor Gear, Plyo, Roz Aurie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-17-pro-max-urban-armor-gear-plyo-roz-aurie</link>
       <image>https://img.gsmnet.ro/600x600/products/229138/husa-magsafe-pentru-apple-iphone-17-pro-max-urban-armor-gear-plyo-roz-aurie-1760527931110.jpg</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -232884,23 +231898,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Ringke Easy Slide pentru Apple iPhone 17, Sticla Securizata, Full Glue, Set 2 bucati</description>
-    </product>
-    <product>
-      <uid>367048</uid>
-      <name>Folie de protectie Ecran Ringke Easy Slide pentru Apple iPhone 17 Air, Sticla Securizata, Full Glue, Set 2 bucati</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-ringke-easy-slide-pentru-apple-iphone-17-air-sticla-securizata-full-glue-set-2-bucati</link>
-      <image>https://img.gsmnet.ro/600x600/products/229160/folie-de-protectie-ecran-ringke-easy-slide-pentru-apple-iphone-17-air-sticla-securizata-full-glue-set-2-bucati-1760528026523.jpg</image>
-      <price>29.75</price>
-      <price_with_vat>29.75</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>367048</mpn>
-      <ean>8800328812314</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Ringke Easy Slide pentru Apple iPhone 17 Air, Sticla Securizata, Full Glue, Set 2 bucati</description>
     </product>
     <product>
       <uid>367049</uid>
@@ -235162,23 +234159,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, ArmorMag, Neagra</description>
-    </product>
-    <product>
-      <uid>367413</uid>
-      <name>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, ArmorMag, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-armormag-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/229528/husa-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-armormag-albastra-1761031835287.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>367413</mpn>
-      <ean>5949419337336</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, ArmorMag, Albastra</description>
     </product>
     <product>
       <uid>367414</uid>
@@ -240655,40 +239635,6 @@
       <description>Curea Techsuit W050 pentru Samsung Galaxy Watch / Huawei Watch Series, 20mm, Verde</description>
     </product>
     <product>
-      <uid>368099</uid>
-      <name>Curea Techsuit W050 pentru Samsung Galaxy Watch / Huawei Watch Series, 20mm, Visinie</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w050-pentru-samsung-galaxy-watch-huawei-watch-series-20mm-visinie</link>
-      <image>https://img.gsmnet.ro/600x600/products/230219/curea-techsuit-w050-pentru-samsung-galaxy-watch-huawei-watch-series-20mm-visinie-1761254986689.jpg</image>
-      <price>14.87</price>
-      <price_with_vat>14.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>368099</mpn>
-      <ean>5949419081123</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Curea Techsuit W050 pentru Samsung Galaxy Watch / Huawei Watch Series, 20mm, Visinie</description>
-    </product>
-    <product>
-      <uid>368100</uid>
-      <name>Curea Techsuit W050 pentru Samsung Galaxy Watch9 / Watch8 / Watch8 Classic Series, Albastra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w050-pentru-samsung-galaxy-watch9-watch8-watch8-classic-series-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/230220/curea-techsuit-w050-pentru-samsung-galaxy-watch-8-classic-watch8-44mm-watch-8-40mm-albastra-1761254988146.jpg</image>
-      <price>14.87</price>
-      <price_with_vat>14.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>368100</mpn>
-      <ean>5949419318465</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Curea Techsuit W050 pentru Samsung Galaxy Watch9 / Watch8 / Watch8 Classic Series, Albastra</description>
-    </product>
-    <product>
       <uid>368102</uid>
       <name>Curea Techsuit W050 pentru Samsung Galaxy Watch9 / Watch8 / Watch8 Classic Series, Gri</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w050-pentru-samsung-galaxy-watch9-watch8-watch8-classic-series-gri</link>
@@ -242559,23 +241505,6 @@
       <description>Curea Techsuit W067 pentru Amazfit T-Rex Pro / T-Rex, Gri</description>
     </product>
     <product>
-      <uid>368275</uid>
-      <name>Curea Techsuit W067 pentru Amazfit T-Rex Pro / T-Rex, Neagra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w067-pentru-amazfit-t-rex-pro-t-rex-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/230395/curea-techsuit-w067-pentru-amazfit-t-rex-pro-t-rex-neagra-176125538342.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>368275</mpn>
-      <ean>5949419244115</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Curea Techsuit W067 pentru Amazfit T-Rex Pro / T-Rex, Neagra</description>
-    </product>
-    <product>
       <uid>368276</uid>
       <name>Curea Techsuit W067 pentru Amazfit T-Rex Pro / T-Rex, Verde Inchis</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w067-pentru-amazfit-t-rex-pro-t-rex-verde-inchis</link>
@@ -243305,23 +242234,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Curea Techsuit W074 pentru Samsung Galaxy Watch Series, 20mm, Neagra</description>
-    </product>
-    <product>
-      <uid>368330</uid>
-      <name>Curea Techsuit W074 pentru Samsung Galaxy Watch Series, 20mm, Neagra Portocalie</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-techsuit-w074-pentru-samsung-galaxy-watch-series-20mm-neagra-portocalie</link>
-      <image>https://img.gsmnet.ro/600x600/products/230450/curea-techsuit-w074-pentru-samsung-galaxy-watch-series-20mm-neagra-portocalie-1761255509314.jpg</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>368330</mpn>
-      <ean>5949419283879</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Curea Techsuit W074 pentru Samsung Galaxy Watch Series, 20mm, Neagra Portocalie</description>
     </product>
     <product>
       <uid>368331</uid>
@@ -245381,23 +244293,6 @@
       <description>Husa pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, CamGuard Pro, Mov</description>
     </product>
     <product>
-      <uid>368711</uid>
-      <name>Husa pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, CamGuard Pro, Rosie</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-camguard-pro-rosie</link>
-      <image>https://img.gsmnet.ro/600x600/products/230831/husa-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-camguard-pro-rosie-176164010650.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>368711</mpn>
-      <ean>5949419339347</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, CamGuard Pro, Rosie</description>
-    </product>
-    <product>
       <uid>368712</uid>
       <name>Husa pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, CamGuard Pro, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-camguard-pro-roz</link>
@@ -245787,23 +244682,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa Ringke pentru Apple AirPods Pro 3, Roz</description>
-    </product>
-    <product>
-      <uid>368773</uid>
-      <name>Husa Ringke pentru Apple AirPods Pro 3, Crem</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-ringke-pentru-apple-airpods-pro-3-crem</link>
-      <image>https://img.gsmnet.ro/600x600/products/230893/husa-ringke-pentru-apple-airpods-3-crem-176164037797.jpg</image>
-      <price>30.99</price>
-      <price_with_vat>30.99</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>368773</mpn>
-      <ean>8800293859420</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa Ringke pentru Apple AirPods Pro 3, Crem</description>
     </product>
     <product>
       <uid>368776</uid>
@@ -246382,23 +245260,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie Protectie Ecran Matte Anti Blue Light Techsuit VisionProX pentru Apple MacBook Pro 14inch (2026) / (2025) / (2024) / (2023), Plastic</description>
-    </product>
-    <product>
-      <uid>368841</uid>
-      <name>Husa pentru Oppo Reno14 F / Reno14, OEM, Marva Wallet, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-oppo-reno14-f-reno14-oem-marva-wallet-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/230961/husa-pentru-oppo-reno14-1-1761922626.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>OEM</manufacturer>
-      <mpn>368841</mpn>
-      <ean>5904643069033</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Oppo Reno14 F / Reno14, OEM, Marva Wallet, Albastra</description>
     </product>
     <product>
       <uid>368844</uid>
@@ -249601,8 +248462,8 @@
       <name>Tastatura Gaming Wired USB HAVIT KB896L, RGB, 1.2m, Verde</name>
       <link>https://www.gsmnet.ro/accesorii-pc-laptop-tastatura-mouse/tastatura-gaming-wired-usb-havit-kb896l-rgb-1-2m-verde</link>
       <image>https://img.gsmnet.ro/600x600/products/231551/tastatura-gaming-havit-kb896l-rgb-1-2m-verde-1762254727442.jpg</image>
-      <price>177.31</price>
-      <price_with_vat>177.31</price_with_vat>
+      <price>178.55</price>
+      <price_with_vat>178.55</price_with_vat>
       <vat>24.00</vat>
       <category>Tastaturi PC</category>
       <manufacturer>HAVIT</manufacturer>
@@ -249618,8 +248479,8 @@
       <name>Tastatura Gaming Wired USB HAVIT KB896L, RGB, 1.2m, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-pc-laptop-tastatura-mouse/tastatura-gaming-wired-usb-havit-kb896l-rgb-1-2m-roz</link>
       <image>https://img.gsmnet.ro/600x600/products/231552/tastatura-gaming-havit-kb896l-rgb-1-2m-roz-1762254729949.jpg</image>
-      <price>177.31</price>
-      <price_with_vat>177.31</price_with_vat>
+      <price>178.55</price>
+      <price_with_vat>178.55</price_with_vat>
       <vat>24.00</vat>
       <category>Tastaturi PC</category>
       <manufacturer>HAVIT</manufacturer>
@@ -250566,23 +249427,6 @@
       <description>Husa MagSafe pentru Apple iPhone 17 Pro Max, Techsuit, HaloFrost II, Portocalie</description>
     </product>
     <product>
-      <uid>369619</uid>
-      <name>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, HoneyComb Shield, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-honeycomb-shield-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/231737/husa-magsafe-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-honeycomb-shield-albastra-1762255603295.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>369619</mpn>
-      <ean>5949419344341</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, HoneyComb Shield, Albastra</description>
-    </product>
-    <product>
       <uid>369621</uid>
       <name>Husa MagSafe pentru Xiaomi Redmi 15 5G / 15 4G, Techsuit, HoneyComb Shield, Alba</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-redmi-15-5g-15-4g-techsuit-honeycomb-shield-alba</link>
@@ -250853,23 +249697,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa Techsuit Defense360 Pro pentru Garmin Venu 4 41mm, Transparenta</description>
-    </product>
-    <product>
-      <uid>369663</uid>
-      <name>Husa Techsuit Defense360 Pro pentru Garmin Venu 4 45mm, Neagra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-techsuit-defense360-pro-pentru-garmin-venu-4-45mm-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/231781/husa-techsuit-defense360-pro-pentru-garmin-venu-4-45mm-neagra-1762255735280.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>369663</mpn>
-      <ean>5949419341142</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa Techsuit Defense360 Pro pentru Garmin Venu 4 45mm, Neagra</description>
     </product>
     <product>
       <uid>369664</uid>
@@ -252332,23 +251159,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Adeziv Display Google Pixel 6, Service Pack G806-05339-01</description>
-    </product>
-    <product>
-      <uid>369980</uid>
-      <name>Adeziv Display Google Pixel 6 Pro, Service Pack G806-05452-03</name>
-      <link>https://www.gsmnet.ro/piese-componente-suruburi-adezivi/adeziv-display-google-pixel-6-pro-service-pack-g806-05452-03</link>
-      <image>https://img.gsmnet.ro/600x600/products/232006/adeziv-display-google-pixel-1-1765542002.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Google</manufacturer>
-      <mpn>G806-05452-03</mpn>
-      <ean>5061062849193</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Adeziv Display Google Pixel 6 Pro, Service Pack G806-05452-03</description>
     </product>
     <product>
       <uid>369981</uid>
@@ -256055,23 +254865,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Samsung Galaxy A07 4G A075, Techsuit, CamGuard Pro, Mov</description>
-    </product>
-    <product>
-      <uid>370466</uid>
-      <name>Husa pentru Samsung Galaxy A07 4G A075, Techsuit, CamGuard Pro, Roz</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a07-4g-a075-techsuit-camguard-pro-roz</link>
-      <image>https://img.gsmnet.ro/600x600/products/232495/husa-pentru-samsung-galaxy-a07-4g-a075-techsuit-camguard-pro-roz-1763456860511.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>370466</mpn>
-      <ean>5949419346284</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy A07 4G A075, Techsuit, CamGuard Pro, Roz</description>
     </product>
     <product>
       <uid>370467</uid>
@@ -266852,23 +265645,6 @@
       <description>Suport Numar Telefon Auto Techsuit DialCraft</description>
     </product>
     <product>
-      <uid>371594</uid>
-      <name>Perna Auto Baseus ComfortRide pentru Spate C20036401111-00</name>
-      <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/perna-auto-baseus-comfortride-pentru-spate-c20036401111-00</link>
-      <image>https://img.gsmnet.ro/600x600/products/233623/perna-auto-baseus-comfort-ride-pentru-spate-c20036401111-00-1765357478579.jpg</image>
-      <price>68.19</price>
-      <price_with_vat>68.19</price_with_vat>
-      <vat>24.00</vat>
-      <category>Accesorii pentru interiorul mașinii</category>
-      <manufacturer>Baseus</manufacturer>
-      <mpn>C20036401111-00</mpn>
-      <ean>6932172643607</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Perna Auto Baseus ComfortRide pentru Spate C20036401111-00</description>
-    </product>
-    <product>
       <uid>371597</uid>
       <name>Sac Menajer Baseus Gentleman Style pentru Cos Auto, Set 60 Bucati CRLJD-0G</name>
       <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/sac-menajer-baseus-gentleman-style-pentru-cos-auto-set-60-bucati-crljd-0g</link>
@@ -271221,23 +269997,6 @@
       <description>Memorie Externa USB-C SanDisk Extreme Fit, 256Gb SDCZ530-256G-G46</description>
     </product>
     <product>
-      <uid>372022</uid>
-      <name>Memorie Externa USB-C SanDisk Extreme Fit, 512Gb SDCZ530-512G-G46</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-carduri-memorii-usb/memorie-externa-usb-c-sandisk-extreme-fit-512gb-sdcz530-512g-g46</link>
-      <image>https://img.gsmnet.ro/600x600/products/234051/memorie-externa-usb-c-sandisk-1-1767625927.jpg</image>
-      <price>241.79</price>
-      <price_with_vat>241.79</price_with_vat>
-      <vat>24.00</vat>
-      <category>Carduri de memorie</category>
-      <manufacturer>SanDisk</manufacturer>
-      <mpn>SDCZ530-512G-G46</mpn>
-      <ean>619659222963</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Memorie Externa USB-C SanDisk Extreme Fit, 512Gb SDCZ530-512G-G46</description>
-    </product>
-    <product>
       <uid>372030</uid>
       <name>Surubelnita Relife RL-721, Y 0.6mm</name>
       <link>https://www.gsmnet.ro/aparatura-instrumente-service-surubelnite/surubelnita-relife-rl-721-y-0-6mm</link>
@@ -272001,23 +270760,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Auto Cu Cablu USB-C Baseus PrimeTrip VR1, 60W, 3A, 1 x USB-A - 1 x USB-C, Negru C00069001121-00</description>
-    </product>
-    <product>
-      <uid>372158</uid>
-      <name>Incarcator Auto Cu Cablu USB-C Baseus PrimeTrip VR2, 30W, 3A, 1 x USB-C, Negru C0206400</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-incarcatoare/incarcator-auto-cu-cablu-usb-c-baseus-primetrip-vr2-30w-3a-1-x-usb-c-negru-c0206400</link>
-      <image>https://img.gsmnet.ro/600x600/products/234187/incarcator-auto-cu-cablu-usb-c-baseus-primetrip-vr2-30w-3a-1-x-usb-c-negru-c0206400-1765843198937.jpg</image>
-      <price>39.67</price>
-      <price_with_vat>39.67</price_with_vat>
-      <vat>24.00</vat>
-      <category>Incarcatoare Telefoane</category>
-      <manufacturer>Baseus</manufacturer>
-      <mpn>C0206400</mpn>
-      <ean>6932172692216</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Incarcator Auto Cu Cablu USB-C Baseus PrimeTrip VR2, 30W, 3A, 1 x USB-C, Negru C0206400</description>
     </product>
     <product>
       <uid>372159</uid>
@@ -273735,23 +272477,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Retea Wireless Baseus Orbit 2 Pro 2in1, 20W, 1.67A, Gri P10273500813-00</description>
-    </product>
-    <product>
-      <uid>372359</uid>
-      <name>Incarcator Retea Wireless ESR HaloLock, 15W, 1.67A, Argintiu</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-incarcatoare/incarcator-retea-wireless-esr-halolock-15w-1-67a-argintiu</link>
-      <image>https://img.gsmnet.ro/600x600/products/234388/incarcator-retea-wireless-esr-halolock-15w-1-67a-argintiu-1765844043998.jpg</image>
-      <price>45.87</price>
-      <price_with_vat>45.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Incarcatoare Telefoane</category>
-      <manufacturer>ESR</manufacturer>
-      <mpn>372359</mpn>
-      <ean>4894240217092</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Incarcator Retea Wireless ESR HaloLock, 15W, 1.67A, Argintiu</description>
     </product>
     <product>
       <uid>372364</uid>
@@ -278327,23 +277052,6 @@
       <description>Suport Auto Magnetic Techsuit S14, Universal, Gri</description>
     </product>
     <product>
-      <uid>372846</uid>
-      <name>Suport Auto Magnetic Acefast D45, Universal, Negru</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-suporturi-telefoane/suport-auto-magnetic-acefast-d45-universal-negru</link>
-      <image>https://img.gsmnet.ro/600x600/products/234875/suport-auto-magnetic-acefast-d45-universal-negru-1766012182330.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Suporturi pentru telefoane mobile</category>
-      <manufacturer>Acefast</manufacturer>
-      <mpn>372846</mpn>
-      <ean>6974316284093</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Suport Auto Magnetic Acefast D45, Universal, Negru</description>
-    </product>
-    <product>
       <uid>372849</uid>
       <name>Suport Auto Acefast D26, Universal, Negru</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-suporturi-telefoane/suport-auto-acefast-d26-universal-negru</link>
@@ -279889,23 +278597,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Ecran Privacy Techsuit pentru Oppo Reno14, Sticla Securizata, 111D</description>
-    </product>
-    <product>
-      <uid>373038</uid>
-      <name>Folie de protectie Camera Spate Techsuit pentru Honor Magic8 Lite, Sticla Securizata, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-camera-spate-techsuit-pentru-honor-magic8-lite-sticla-securizata-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/235067/folie-de-protectie-camera-spate-techsuit-pentru-honor-magic8-lite-sticla-securizata-neagra-1766052545774.jpg</image>
-      <price>8.67</price>
-      <price_with_vat>8.67</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>373038</mpn>
-      <ean>5949419349940</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Camera Spate Techsuit pentru Honor Magic8 Lite, Sticla Securizata, Neagra</description>
     </product>
     <product>
       <uid>373039</uid>
@@ -285930,8 +284621,8 @@
       <name>Capac Baterie Apple iPhone 17 Pro, Cu Carcasa Mijloc, Full Parts, Argintiu, Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-pro-cu-carcasa-mijloc-full-parts-argintiu-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235829/capac-baterie-apple-iphone-1-1772548097.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -285947,8 +284638,8 @@
       <name>Capac Baterie Apple iPhone 17 Pro, Cu Carcasa Mijloc, Full Parts, Bleumarin (Deep Blue), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-pro-cu-carcasa-mijloc-full-parts-bleumarin-deep-blue-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235831/capac-baterie-apple-iphone-1-1772548104.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -286015,8 +284706,8 @@
       <name>Capac Baterie Apple iPhone 17, Cu Carcasa Mijloc, Full Parts, Negru, Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-cu-carcasa-mijloc-full-parts-negru-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235835/capac-baterie-apple-iphone-1-1772798493.jpg</image>
-      <price>406.71</price>
-      <price_with_vat>406.71</price_with_vat>
+      <price>407.95</price>
+      <price_with_vat>407.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -286032,8 +284723,8 @@
       <name>Capac Baterie Apple iPhone 17, Cu Carcasa Mijloc, Full Parts, Alb, Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-cu-carcasa-mijloc-full-parts-alb-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235836/capac-baterie-apple-iphone-1-1772798496.jpg</image>
-      <price>406.71</price>
-      <price_with_vat>406.71</price_with_vat>
+      <price>407.95</price>
+      <price_with_vat>407.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -286049,8 +284740,8 @@
       <name>Capac Baterie Apple iPhone 17, Cu Carcasa Mijloc, Full Parts, Albastru (Mist Blue), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-cu-carcasa-mijloc-full-parts-albastru-mist-blue-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235837/capac-baterie-apple-iphone-1-1772798500.jpg</image>
-      <price>406.71</price>
-      <price_with_vat>406.71</price_with_vat>
+      <price>407.95</price>
+      <price_with_vat>407.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -286066,8 +284757,8 @@
       <name>Capac Baterie Apple iPhone 17, Cu Carcasa Mijloc, Full Parts, Mov (Lavender), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-cu-carcasa-mijloc-full-parts-mov-lavender-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/235838/capac-baterie-apple-iphone-1-1772798503.jpg</image>
-      <price>406.71</price>
-      <price_with_vat>406.71</price_with_vat>
+      <price>407.95</price>
+      <price_with_vat>407.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -287131,23 +285822,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Baterie Externa Baseus EnerFill FC21 Qpow 3 Ultra, 10000mAh, 22.5W, QC + PD, 1 x USB-A - 1 x USB-C, Bej E0027L01</description>
-    </product>
-    <product>
-      <uid>374002</uid>
-      <name>Baterie Externa Baseus EnerFill FC21 Qpow 3 Ultra, 10000mAh, 22.5W, QC + PD, 1 x USB-A - 1 x USB-C, Roz E0027L02</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-baterii-externe/baterie-externa-baseus-enerfill-fc21-qpow-3-ultra-10000mah-22-5w-qc-plus-pd-1-x-usb-a-1-x-usb-c-roz-e0027l02</link>
-      <image>https://img.gsmnet.ro/600x600/products/236031/baterie-externa-baseus-enerfill-fc21-qpow-3-ultra-10000mah-22-5w-roz-e0027l02-1768469004398.jpg</image>
-      <price>64.47</price>
-      <price_with_vat>64.47</price_with_vat>
-      <vat>24.00</vat>
-      <category>Baterii externe</category>
-      <manufacturer>Baseus</manufacturer>
-      <mpn>E0027L02</mpn>
-      <ean>6932172692438</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Baterie Externa Baseus EnerFill FC21 Qpow 3 Ultra, 10000mAh, 22.5W, QC + PD, 1 x USB-A - 1 x USB-C, Roz E0027L02</description>
     </product>
     <product>
       <uid>374003</uid>
@@ -294171,23 +292845,6 @@
       <description>Cablu Audio si Video USB-C - HDMI HOCO UA43, 1.8m, Gri</description>
     </product>
     <product>
-      <uid>374683</uid>
-      <name>Adaptor Audio si Video USB-C - HDMI MaXlife MXHC-01, Gri</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-cabluri-adaptori/adaptor-audio-video-usb-c-hdmi-maxlife-mxhc-01-gri</link>
-      <image>https://img.gsmnet.ro/600x600/products/236717/adaptor-audio-video-1-1769433885.png</image>
-      <price>26.03</price>
-      <price_with_vat>26.03</price_with_vat>
-      <vat>24.00</vat>
-      <category>Adaptoare și conectori pentru cabluri de rețea</category>
-      <manufacturer>MaXlife</manufacturer>
-      <mpn>374683</mpn>
-      <ean>5907457776067</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Adaptor Audio si Video USB-C - HDMI MaXlife MXHC-01, Gri</description>
-    </product>
-    <product>
       <uid>374686</uid>
       <name>Cablu Audio 3.5mm - 3.5mm XO Design NB-R279C, 1m, Alb</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-cabluri-adaptori/cablu-audio-3-5mm-3-5mm-xo-design-nb-r279c-1m-alb</link>
@@ -295223,23 +293880,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Statie Baseus Nomos ND11 QI 6in1, 67W, 3.35A, 1 x USB-A - 2 x USB-C - 2 x Schuko, Negru E00078801123-00</description>
-    </product>
-    <product>
-      <uid>374833</uid>
-      <name>Incarcator Auto Wireless Baseus PrimeTrip C03 Pro, 15W, 1.67A, Negru C0013A01</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-incarcatoare/incarcator-auto-wireless-baseus-primetrip-c03-pro-15w-1-67a-negru-c0013a01</link>
-      <image>https://img.gsmnet.ro/600x600/products/236867/incarcator-auto-wireless-baseus-primetrip-c03-pro-15w-1-67a-negru-c0013701-1769465666938.jpg</image>
-      <price>60.75</price>
-      <price_with_vat>60.75</price_with_vat>
-      <vat>24.00</vat>
-      <category>Incarcatoare Telefoane</category>
-      <manufacturer>Baseus</manufacturer>
-      <mpn>C0013A01</mpn>
-      <ean>6932172696054</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Incarcator Auto Wireless Baseus PrimeTrip C03 Pro, 15W, 1.67A, Negru C0013A01</description>
     </product>
     <product>
       <uid>374834</uid>
@@ -303232,23 +301872,6 @@
       <description>Husa pentru Samsung Galaxy A57 5G, Techsuit, CamGuard Pro, Mov</description>
     </product>
     <product>
-      <uid>375716</uid>
-      <name>Husa pentru Samsung Galaxy A37 5G, Techsuit, Magic Shield, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a37-5g-techsuit-magic-shield-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/237750/husa-pentru-samsung-galaxy-a37-5g-techsuit-magic-shield-verde-1770628570324.jpg</image>
-      <price>12.39</price>
-      <price_with_vat>12.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>375716</mpn>
-      <ean>5949419352759</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy A37 5G, Techsuit, Magic Shield, Verde</description>
-    </product>
-    <product>
       <uid>375717</uid>
       <name>Husa pentru Samsung Galaxy A37 5G, Techsuit, Magic Shield, Rosie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a37-5g-techsuit-magic-shield-rosie</link>
@@ -303485,23 +302108,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Oppo Reno15 FS / Reno15 F, Techsuit, CamShield, Neagra</description>
-    </product>
-    <product>
-      <uid>375734</uid>
-      <name>Husa pentru Honor Magic8 Pro, Techsuit, CamGuard Pro, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-honor-magic8-pro-techsuit-camguard-pro-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/237768/husa-pentru-honor-magic8-pro-techsuit-camguard-pro-neagra-1770628614726.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>375734</mpn>
-      <ean>5949419356146</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Honor Magic8 Pro, Techsuit, CamGuard Pro, Neagra</description>
     </product>
     <product>
       <uid>375735</uid>
@@ -307261,23 +305867,6 @@
       <description>Husa pentru Samsung Galaxy S26 Plus S947, Techsuit, SmartView, Verde</description>
     </product>
     <product>
-      <uid>376050</uid>
-      <name>Husa pentru Samsung Galaxy S26 Plus S947, Techsuit, SmartView, Albastra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-s26-plus-s947-techsuit-smartview-albastra</link>
-      <image>https://img.gsmnet.ro/600x600/products/238084/husa-pentru-samsung-galaxy-s26-plus-techsuit-smartview-albastra-177088479791.jpg</image>
-      <price>28.51</price>
-      <price_with_vat>28.51</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>376050</mpn>
-      <ean>5949419356900</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy S26 Plus S947, Techsuit, SmartView, Albastra</description>
-    </product>
-    <product>
       <uid>376051</uid>
       <name>Husa pentru Samsung Galaxy S26 Plus S947, Techsuit, SmartView, Mov</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-s26-plus-s947-techsuit-smartview-mov</link>
@@ -308024,23 +306613,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Baterie Externa Dudao K6Pro+, 20000mAh, 10W, 1 x Lightning - 1 x microUSB - 1 x USB-A - 1 x USB-C, Neagra</description>
-    </product>
-    <product>
-      <uid>376175</uid>
-      <name>Husa pentru Samsung Galaxy A57 5G, Techsuit, Shockproof Clear, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-samsung-galaxy-a57-5g-techsuit-shockproof-clear-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/238209/husa-pentru-samsung-galaxy-a57-5g-techsuit-shockproof-clear-transparenta-1770970866235.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>376175</mpn>
-      <ean>5949419353411</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Samsung Galaxy A57 5G, Techsuit, Shockproof Clear, Transparenta</description>
     </product>
     <product>
       <uid>376177</uid>
@@ -314966,8 +313538,8 @@
       <name>Display cu Touchscreen Huawei Mate X7, cu Rama si Acumulator, Auriu, Service Pack 02357JRJ</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-mate-x7-cu-rama-acumulator-auriu-service-pack-02357jrj</link>
       <image>https://img.gsmnet.ro/600x600/products/239212/display-cu-touchscreen-huawei-1-1775467367.jpg</image>
-      <price>1656.63</price>
-      <price_with_vat>1656.63</price_with_vat>
+      <price>1657.87</price>
+      <price_with_vat>1657.87</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -314983,8 +313555,8 @@
       <name>Display cu Touchscreen Huawei Mate X7, cu Rama si Acumulator, Gri, Service Pack 02357JRM</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-mate-x7-cu-rama-acumulator-gri-service-pack-02357jrm</link>
       <image>https://img.gsmnet.ro/600x600/products/239213/display-cu-touchscreen-huawei-1-1775467373.jpg</image>
-      <price>1656.63</price>
-      <price_with_vat>1656.63</price_with_vat>
+      <price>1657.87</price>
+      <price_with_vat>1657.87</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -315782,8 +314354,8 @@
       <name>Display cu Touchscreen Huawei Mate X7, Sub Inner, Service Pack 23021670</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-mate-x7-sub-inner-service-pack-23021670</link>
       <image>https://img.gsmnet.ro/600x600/products/239286/display-cu-touchscreen-huawei-1-1775470575.jpg</image>
-      <price>438.95</price>
-      <price_with_vat>438.95</price_with_vat>
+      <price>440.19</price>
+      <price_with_vat>440.19</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -322718,8 +321290,8 @@
       <name>Handsfree Bluetooth Nothing Ear (a) B162, TWS, ANC, MultiPoint, Negru</name>
       <link>https://www.gsmnet.ro/wearables-audio-inclusiv-tws/handsfree-bluetooth-nothing-ear-a-b162-tws-anc-multipoint-negru</link>
       <image>https://img.gsmnet.ro/600x600/products/240130/handsfree-bluetooth-nothing-ear-1-1775114823.png</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Casti Bluetooth Handsfree</category>
       <manufacturer>Nothing</manufacturer>
@@ -322786,8 +321358,8 @@
       <name>Husa pentru OnePlus Pad Lite, Folio, Albastra 5511100699</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-oneplus-pad-lite-folio-albastra-5511100699</link>
       <image>https://img.gsmnet.ro/600x600/products/240135/husa-pentru-oneplus-pad-1-1776148744.png</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>OnePlus</manufacturer>
@@ -324074,23 +322646,6 @@
       <description>Folie Protectie Techsuit Nano Flex pentru Huawei Watch D2, Set 2 bucati, Plastic, Neagra</description>
     </product>
     <product>
-      <uid>378301</uid>
-      <name>Folie Protectie Techsuit Nano Flex pentru Huawei Watch GT 6 46mm, Set 2 bucati, Plastic, Neagra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/folie-protectie-techsuit-nano-flex-pentru-huawei-watch-gt-6-46mm-set-2-bucati-plastic-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/240224/folie-protectie-techsuit-nano-flex-pentru-huawei-watch-gt-6-46mm-set-2-bucati-plastic-neagra-1774871563777.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>378301</mpn>
-      <ean>5949419360020</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie Protectie Techsuit Nano Flex pentru Huawei Watch GT 6 46mm, Set 2 bucati, Plastic, Neagra</description>
-    </product>
-    <product>
       <uid>378303</uid>
       <name>Folie Protectie Techsuit Nano Flex pentru Huawei Watch GT 6 Pro, Set 2 bucati, Plastic, Neagra</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/folie-protectie-techsuit-nano-flex-pentru-huawei-watch-gt-6-pro-set-2-bucati-plastic-neagra</link>
@@ -324616,23 +323171,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Snur Telefon Techsuit RWS1-01, Gri</description>
-    </product>
-    <product>
-      <uid>378337</uid>
-      <name>Snur Telefon Techsuit RWS2-07, Gri</name>
-      <link>https://www.gsmnet.ro/gadgeturi-utile/snur-telefon-techsuit-rws2-07-gri</link>
-      <image>https://img.gsmnet.ro/600x600/products/240260/snur-telefon-techsuit-rws2-07-gri-1774871650415.jpg</image>
-      <price>13.63</price>
-      <price_with_vat>13.63</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse gadgeturi</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>378337</mpn>
-      <ean>5949419271920</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Snur Telefon Techsuit RWS2-07, Gri</description>
     </product>
     <product>
       <uid>378341</uid>
@@ -325687,23 +324225,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Xiaomi 17 Ultra, Techsuit, HaloFrost II, Verde</description>
-    </product>
-    <product>
-      <uid>378659</uid>
-      <name>Husa MagSafe pentru Xiaomi 17 Ultra, Techsuit, HaloFrost II, Mov</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-17-ultra-techsuit-halofrost-ii-mov</link>
-      <image>https://img.gsmnet.ro/600x600/products/240582/husa-magsafe-pentru-xiaomi-17-ultra-techsuit-halofrost-ii-mov-1775464513451.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>378659</mpn>
-      <ean>5949419362307</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Xiaomi 17 Ultra, Techsuit, HaloFrost II, Mov</description>
     </product>
     <product>
       <uid>378660</uid>
@@ -330789,23 +329310,6 @@
       <description>Husa pentru Motorola Edge 70 Fusion, Techsuit, Magskin Book, Neagra</description>
     </product>
     <product>
-      <uid>379488</uid>
-      <name>Husa pentru Motorola Edge 70 Fusion, Techsuit, Diary Book, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-motorola-edge-70-fusion-techsuit-diary-book-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/241386/husa-pentru-motorola-edge-70-fusion-techsuit-diary-book-neagra-1777284575237.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>379488</mpn>
-      <ean>5949419363229</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Motorola Edge 70 Fusion, Techsuit, Diary Book, Neagra</description>
-    </product>
-    <product>
       <uid>379489</uid>
       <name>Husa pentru Honor 600 Lite, Techsuit, ColorVerse 360, Albastra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-honor-600-lite-techsuit-colorverse-360-albastra</link>
@@ -330889,23 +329393,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Honor 600 Lite, Techsuit, ColorVerse 360, Mov</description>
-    </product>
-    <product>
-      <uid>379496</uid>
-      <name>Husa MagSafe pentru Motorola Edge 70 Fusion, Techsuit, HaloFrost II, Bleumarin</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-motorola-edge-70-fusion-techsuit-halofrost-ii-bleumarin</link>
-      <image>https://img.gsmnet.ro/600x600/products/241394/husa-magsafe-pentru-motorola-edge-70-fusion-techsuit-halofrost-ii-bleumarin-1777284596315.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>379496</mpn>
-      <ean>5949419364080</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Motorola Edge 70 Fusion, Techsuit, HaloFrost II, Bleumarin</description>
     </product>
     <product>
       <uid>379497</uid>
@@ -336484,23 +334971,6 @@
       <description>Husa pentru Realme 16 Pro, Techsuit, CamGuard Pro, Neagra</description>
     </product>
     <product>
-      <uid>380062</uid>
-      <name>Husa pentru Realme 16 Pro+, Techsuit, CamGuard Pro, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-realme-16-pro-plus-techsuit-camguard-pro-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/241960/husa-pentru-realme-16-pro-plus-techsuit-camguard-pro-neagra-1778440604780.jpg</image>
-      <price>16.11</price>
-      <price_with_vat>16.11</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>380062</mpn>
-      <ean>5949419365568</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Realme 16 Pro+, Techsuit, CamGuard Pro, Neagra</description>
-    </product>
-    <product>
       <uid>380063</uid>
       <name>Husa pentru Realme 16 Pro+, Techsuit, CamGuard Pro, Albastra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-realme-16-pro-plus-techsuit-camguard-pro-albastra</link>
@@ -338558,23 +337028,6 @@
       <description>Husa pentru Xiaomi Poco X8 Pro, Techsuit, ColorVerse 360, Neagra</description>
     </product>
     <product>
-      <uid>380245</uid>
-      <name>Husa pentru Xiaomi Poco X8 Pro Max, Techsuit, ColorVerse 360, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-x8-pro-max-techsuit-colorverse-360-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/242143/husa-pentru-xiaomi-poco-x8-pro-max-techsuit-colorverse-360-neagra-1778675295297.jpg</image>
-      <price>14.87</price>
-      <price_with_vat>14.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>380245</mpn>
-      <ean>5949419364677</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Poco X8 Pro Max, Techsuit, ColorVerse 360, Neagra</description>
-    </product>
-    <product>
       <uid>380247</uid>
       <name>Husa pentru Xiaomi Poco X8 Pro Max, Techsuit, ColorVerse 360, Albastra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-poco-x8-pro-max-techsuit-colorverse-360-albastra</link>
@@ -339610,23 +338063,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Retea OnePlus, 120W, 1 x USB-A, Alb</description>
-    </product>
-    <product>
-      <uid>380372</uid>
-      <name>Husa MagSafe pentru Xiaomi 17 Ultra, Ringke, Fusion X, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-xiaomi-17-ultra-ringke-fusion-x-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/242270/husa-magsafe-pentru-xiaomi-17-ultra-ringke-fusion-x-neagra-1779106926296.jpg</image>
-      <price>30.99</price>
-      <price_with_vat>30.99</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>380372</mpn>
-      <ean>8800328818965</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Xiaomi 17 Ultra, Ringke, Fusion X, Neagra</description>
     </product>
     <product>
       <uid>380375</uid>
@@ -341123,23 +339559,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Motorola Edge 70 Fusion, Techsuit, HaloFrost II, Roz</description>
-    </product>
-    <product>
-      <uid>380516</uid>
-      <name>Husa MagSafe pentru Motorola Edge 70 Fusion, Techsuit, HaloFrost II, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-motorola-edge-70-fusion-techsuit-halofrost-ii-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/242414/husa-magsafe-pentru-motorola-edge-70-fusion-techsuit-halofrost-ii-verde-1779358325162.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>380516</mpn>
-      <ean>5949419367425</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Motorola Edge 70 Fusion, Techsuit, HaloFrost II, Verde</description>
     </product>
     <product>
       <uid>380517</uid>
@@ -343730,8 +342149,8 @@
       <name>Husa MagSafe pentru Apple iPhone 17 Pro Max, Torras, Ostand O3 Air, Verde Satinata</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-17-pro-max-torras-ostand-o3-air-verde-satinata</link>
       <image>https://img.gsmnet.ro/600x600/products/242873/husa-magsafe-pentru-apple-iphone-17-pro-max-torras-ostand-o3-air-verde-satinata-1780399658302.jpg</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Torras</manufacturer>
@@ -348945,23 +347364,6 @@
       <description>Ochelari De Soare Dama Techsuit 8092, Negri Maro</description>
     </product>
     <product>
-      <uid>381501</uid>
-      <name>Ochelari De Soare Dama Techsuit 8092, Negri Portocalii</name>
-      <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-dama-techsuit-8092-negri-portocalii</link>
-      <image>https://img.gsmnet.ro/600x600/products/243399/ochelari-de-soare-dama-techsuit-8092-negri-portocalii-1781691887378.jpg</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse gadgeturi</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>381501</mpn>
-      <ean>5949419371705</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Ochelari De Soare Dama Techsuit 8092, Negri Portocalii</description>
-    </product>
-    <product>
       <uid>381502</uid>
       <name>Ochelari De Soare Dama Techsuit 17002, Negri</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-dama-techsuit-17002-negri</link>
@@ -350632,8 +349034,8 @@
       <name>Ochelari De Soare Copii Techsuit 22312, Polarizati, Protectie UV, Negri Rosii</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-negri-rosii</link>
       <image>https://img.gsmnet.ro/600x600/products/243499/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-negri-rosii-178169215454.jpg</image>
-      <price>24.79</price>
-      <price_with_vat>24.79</price_with_vat>
+      <price>26.03</price>
+      <price_with_vat>26.03</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Techsuit</manufacturer>
@@ -350649,8 +349051,8 @@
       <name>Ochelari De Soare Copii Techsuit 22312, Polarizati, Protectie UV, Portocalii Negri</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-portocalii-negri</link>
       <image>https://img.gsmnet.ro/600x600/products/243500/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-portocalii-negri-1781692156433.jpg</image>
-      <price>24.79</price>
-      <price_with_vat>24.79</price_with_vat>
+      <price>26.03</price>
+      <price_with_vat>26.03</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Techsuit</manufacturer>
@@ -350666,8 +349068,8 @@
       <name>Ochelari De Soare Copii Techsuit 22312, Polarizati, Protectie UV, Albastrii Galbeni</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-albastrii-galbeni</link>
       <image>https://img.gsmnet.ro/600x600/products/243501/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-albastrii-galbeni-1781692159366.jpg</image>
-      <price>24.79</price>
-      <price_with_vat>24.79</price_with_vat>
+      <price>26.03</price>
+      <price_with_vat>26.03</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Techsuit</manufacturer>
@@ -350683,8 +349085,8 @@
       <name>Ochelari De Soare Copii Techsuit 22312, Polarizati, Protectie UV, Roz</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-roz</link>
       <image>https://img.gsmnet.ro/600x600/products/243502/ochelari-de-soare-copii-techsuit-22312-polarizati-protectie-uv-roz-1781692161113.jpg</image>
-      <price>24.79</price>
-      <price_with_vat>24.79</price_with_vat>
+      <price>26.03</price>
+      <price_with_vat>26.03</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Techsuit</manufacturer>
@@ -352553,8 +350955,8 @@
       <name>Capac Baterie Apple iPhone 17, Cu Carcasa Mijloc, Full Parts, Verde (Sage), Swap Premium</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/capac-baterie-apple-iphone-17-cu-carcasa-mijloc-full-parts-verde-sage-swap-premium</link>
       <image>https://img.gsmnet.ro/600x600/products/243642/capac-baterie-apple-iphone-1-1789997910.jpg</image>
-      <price>406.71</price>
-      <price_with_vat>406.71</price_with_vat>
+      <price>407.95</price>
+      <price_with_vat>407.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Apple</manufacturer>
@@ -357500,8 +355902,8 @@
       <name>Display cu Touchscreen si Senzor Proximitate Lumina MP compatibil cu Apple iPhone 15 Pro, cu Rama, Versiune Soft OLED FHD 120Hz Diagnostic, Negru</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-senzor-proximitate-lumina-mp-compatibil-cu-apple-iphone-15-pro-cu-rama-versiune-soft-oled-fhd-120hz-diagnostic-negru</link>
       <image>https://img.gsmnet.ro/600x600/products/244219/display-cu-touchscreen-si-4-1785919159.jpg</image>
-      <price>286.43</price>
-      <price_with_vat>286.43</price_with_vat>
+      <price>287.67</price>
+      <price_with_vat>287.67</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>MP</manufacturer>
@@ -359213,23 +357615,6 @@
       <description>Cablu Video Benfei, MiniDisplayPort - HDMI, 4K, 0.9m, Gri</description>
     </product>
     <product>
-      <uid>382469</uid>
-      <name>Cablu SATA Benfei, USB-A 3.0 / USB-C - SATA III, 0.27m, Negru</name>
-      <link>https://www.gsmnet.ro/accesorii-pc-laptop-accesorii-usb/cablu-sata-benfei-usb-a-3-0-usb-c-sata-iii-0-27m-negru</link>
-      <image>https://img.gsmnet.ro/600x600/products/244360/cablu-sata-benfei-usb-a-1-1784189338.png</image>
-      <price>21.07</price>
-      <price_with_vat>21.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Hub USB</category>
-      <manufacturer>Benfei</manufacturer>
-      <mpn>382469</mpn>
-      <ean>6971785940024</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Cablu SATA Benfei, USB-A 3.0 / USB-C - SATA III, 0.27m, Negru</description>
-    </product>
-    <product>
       <uid>382473</uid>
       <name>Husa OEM Cat pentru Apple AirTag Series, Set 3 bucati, Multicolor</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/husa-oem-cat-pentru-apple-airtag-series-set-3-bucati-multicolor</link>
@@ -359364,23 +357749,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Handsfree Bluetooth JBL Tune 780NC, MultiPoint, A2DP, ANC, Albastru JBLT780NCBLU</description>
-    </product>
-    <product>
-      <uid>382486</uid>
-      <name>Handsfree Bluetooth JBL Wave Flex 2, TWS, ANC, MultiPoint, Albastru JBLWFLEX2BLU</name>
-      <link>https://www.gsmnet.ro/wearables-audio-inclusiv-tws/handsfree-bluetooth-jbl-wave-flex-2-tws-anc-multipoint-albastru-jblwflex2blu</link>
-      <image>https://img.gsmnet.ro/600x600/products/244377/handsfree-bluetooth-jbl-wave-1-1784795884.png</image>
-      <price>105.39</price>
-      <price_with_vat>105.39</price_with_vat>
-      <vat>24.00</vat>
-      <category>Casti Bluetooth Handsfree</category>
-      <manufacturer>JBL</manufacturer>
-      <mpn>JBLWFLEX2BLU</mpn>
-      <ean>1200130015168</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Handsfree Bluetooth JBL Wave Flex 2, TWS, ANC, MultiPoint, Albastru JBLWFLEX2BLU</description>
     </product>
     <product>
       <uid>382487</uid>
@@ -363144,8 +361512,8 @@
       <name>Camera Spate Honor Magic V6, 50MP (Ultrawide), Service Pack 0235ATND</name>
       <link>https://www.gsmnet.ro/piese-componente-piese/camera-spate-honor-magic-v6-50mp-ultrawide-service-pack-0235atnd</link>
       <image>https://img.gsmnet.ro/600x600/products/244811/camera-spate-honor-magic-1-1791285177.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Honor</manufacturer>
@@ -368040,8 +366408,8 @@
       <name>Jump Starter Auto Baseus Super Energy Pro+ C00245700111-00</name>
       <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/jump-starter-auto-baseus-super-energy-pro-plus-c00245700111-00</link>
       <image>https://img.gsmnet.ro/600x600/products/245197/jump-starter-auto-baseus-super-energy-pro-plus-neagra-c00245700111-00-1785143560566.jpg</image>
-      <price>166.15</price>
-      <price_with_vat>166.15</price_with_vat>
+      <price>167.39</price>
+      <price_with_vat>167.39</price_with_vat>
       <vat>24.00</vat>
       <category>Accesorii pentru interiorul mașinii</category>
       <manufacturer>Baseus</manufacturer>
@@ -385138,23 +383506,6 @@
       <description>Folie Protectie Techsuit Nano Flex pentru Samsung Galaxy Watch Ultra2, Plastic, Set 2 bucati, Neagra</description>
     </product>
     <product>
-      <uid>384853</uid>
-      <name>Folie Protectie Smart Protection Premium Classic pentru Samsung Galaxy Watch Ultra2, Plastic, Set 4 bucati</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/folie-protectie-smart-protection-premium-classic-pentru-samsung-galaxy-watch-ultra2-plastic-set-4-bucati</link>
-      <image>https://img.gsmnet.ro/600x600/products/246744/folie-protectie-smart-protection-premium-classic-pentru-samsung-galaxy-watch-ultra2-plastic-set-4-bucati-1788186435995.jpg</image>
-      <price>32.23</price>
-      <price_with_vat>32.23</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Smart Protection</manufacturer>
-      <mpn>384853</mpn>
-      <ean>5949419385597</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie Protectie Smart Protection Premium Classic pentru Samsung Galaxy Watch Ultra2, Plastic, Set 4 bucati</description>
-    </product>
-    <product>
       <uid>384854</uid>
       <name>Incarcator Retea 3MK Globe Travel, 45W, 3A, 2 x USB-C, Alb</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-incarcatoare/incarcator-retea-3mk-globe-travel-45w-3a-2-x-usb-c-alb</link>
@@ -386621,8 +384972,8 @@
       <name>Aparat Pontaj Biometric Yesido KM30, Negru</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/aparat-pontaj-biometric-yesido-km30-negru</link>
       <image>https://img.gsmnet.ro/600x600/products/246868/aparat-pontaj-biometric-yesido-km30-negru-178852118263.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Yesido</manufacturer>
@@ -393421,8 +391772,8 @@
       <name>Baterie Externa Forever Vibe-TB65, 20000mAh, 65W, QC + PD, 2 x USB-A - 2 x USB-C, Visinie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-baterii-externe/baterie-externa-forever-vibe-tb65-20000mah-65w-qc-plus-pd-2-x-usb-a-2-x-usb-c-visinie</link>
       <image>https://img.gsmnet.ro/600x600/products/247331/baterie-externa-forever-vibe-tb65-1-1789126845.png</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Baterii externe</category>
       <manufacturer>Forever</manufacturer>
@@ -393710,8 +392061,8 @@
       <name>Curea Spigen Modern Fit 316L pentru Samsung Galaxy Watch9 / Watch8 / Watch8 Classic Series, Neagra AMP11608</name>
       <link>https://www.gsmnet.ro/wearables-accesorii-wearables/curea-spigen-modern-fit-316l-pentru-samsung-galaxy-watch9-watch8-watch8-classic-series-neagra-amp11608</link>
       <image>https://img.gsmnet.ro/600x600/products/247350/curea-spigen-modern-fit-316l-pentru-samsung-galaxy-watch9-watch8-watch8-classic-series-neagra-amp11608-1788954545407.jpg</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse accesorii pentru dispozitive purtabile</category>
       <manufacturer>Spigen</manufacturer>
@@ -397378,23 +395729,6 @@
       <description>Husa MagSafe pentru Nothing Phone (4b), Techsuit, PureFrost, Neagra Satinata</description>
     </product>
     <product>
-      <uid>385728</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, HaloFrost II, Verde</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s26-fe-s741-techsuit-halofrost-ii-verde</link>
-      <image>https://img.gsmnet.ro/600x600/products/247619/husa-magsafe-pentru-samsung-galaxy-s26-fe-s741-techsuit-halofrost-ii-verde-1789123321503.jpg</image>
-      <price>17.35</price>
-      <price_with_vat>17.35</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>385728</mpn>
-      <ean>5949419384811</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, HaloFrost II, Verde</description>
-    </product>
-    <product>
       <uid>385729</uid>
       <name>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, HaloFrost II, Aurie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s26-fe-s741-techsuit-halofrost-ii-aurie</link>
@@ -398872,23 +397206,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Karl Lagerfeld, Grained KC Heads, Neagra</description>
-    </product>
-    <product>
-      <uid>385842</uid>
-      <name>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Karl Lagerfeld, Grained KC Heads, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-karl-lagerfeld-grained-kc-heads-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/247733/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-karl-lagerfeld-grained-kc-heads-neagra-1789123633176.jpg</image>
-      <price>52.07</price>
-      <price_with_vat>52.07</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Karl Lagerfeld</manufacturer>
-      <mpn>385842</mpn>
-      <ean>3666339659417</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Karl Lagerfeld, Grained KC Heads, Neagra</description>
     </product>
     <product>
       <uid>385843</uid>
@@ -402750,23 +401067,6 @@
       <description>Folie Protectie Spigen GlastR Slim Anti-Glare pentru Navigatie Tesla Y (2026 / 2025) / 3 (2026 / 2025 / 2024), Sticla Securizata AGL07586</description>
     </product>
     <product>
-      <uid>386122</uid>
-      <name>Folie Protectie Spigen GlastR EZ FIT pentru Navigatie Tesla Y 2026 Premium / Performance, Sticla Securizata AGL10820</name>
-      <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/folie-protectie-spigen-glastr-ez-fit-pentru-navigatie-tesla-y-2026-premium-performance-sticla-securizata-agl10820</link>
-      <image>https://img.gsmnet.ro/600x600/products/248013/folie-protectie-spigen-glastr-ez-fit-pentru-navigatie-tesla-y-2026-premium-performance-sticla-securizata-neagra-agl10820-1789553220266.jpg</image>
-      <price>99.19</price>
-      <price_with_vat>99.19</price_with_vat>
-      <vat>24.00</vat>
-      <category>Accesorii pentru interiorul mașinii</category>
-      <manufacturer>Spigen</manufacturer>
-      <mpn>AGL10820</mpn>
-      <ean>8800283319415</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie Protectie Spigen GlastR EZ FIT pentru Navigatie Tesla Y 2026 Premium / Performance, Sticla Securizata AGL10820</description>
-    </product>
-    <product>
       <uid>386123</uid>
       <name>Folie Protectie Spigen GlastR EZ FIT Anti-Glare pentru Navigatie Tesla Y 2026 Premium / Performance, Sticla Securizata AGL10819</name>
       <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/folie-protectie-spigen-glastr-ez-fit-anti-glare-pentru-navigatie-tesla-y-2026-premium-performance-sticla-securizata-agl10819</link>
@@ -404909,23 +403209,6 @@
       <description>Husa Waterproof pentru Apple iPhone 18 Pro Max / 17 Pro Max, ShellBox, Neagra</description>
     </product>
     <product>
-      <uid>386263</uid>
-      <name>Folie de protectie Ecran Privacy Techsuit pentru Xiaomi Redmi 17 5G / 17 4G, Sticla Securizata, Full Glue, 111D</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-privacy-techsuit-pentru-xiaomi-redmi-17-5g-17-4g-sticla-securizata-full-glue-111d</link>
-      <image>https://img.gsmnet.ro/600x600/products/248154/folie-de-protectie-ecran-privacy-techsuit-pentru-xiaomi-redmi-17-5g-17-4g-sticla-securizata-full-glue-111d-1789988756513.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>386263</mpn>
-      <ean>5949419385658</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Privacy Techsuit pentru Xiaomi Redmi 17 5G / 17 4G, Sticla Securizata, Full Glue, 111D</description>
-    </product>
-    <product>
       <uid>386265</uid>
       <name>Boxa Portabila Bluetooth JBL Flip 7, 35W, MultiPoint, Waterproof, Albastra JBLFLIP7BLU</name>
       <link>https://www.gsmnet.ro/gadgeturi-boxe-bluetooth/boxa-portabila-bluetooth-jbl-flip-7-35w-multipoint-waterproof-albastra-jblflip7blu</link>
@@ -405587,23 +403870,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Suport SIM Motorola Edge 50 Neo, Albastru (Nautical Blue), Service Pack S948E45431</description>
-    </product>
-    <product>
-      <uid>386344</uid>
-      <name>Suport SIM - Card Motorola Moto G35, Verde (Leaf Green), Service Pack S948E50444</name>
-      <link>https://www.gsmnet.ro/piese-componente-componente-carcasa/suport-sim-card-motorola-moto-g35-verde-leaf-green-service-pack-s948e50444</link>
-      <image>https://img.gsmnet.ro/600x600/products/248235/suport-sim-card-1-1791289731.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Piese de schimb diverse pentru telefoane mobile</category>
-      <manufacturer>Motorola</manufacturer>
-      <mpn>S948E53728</mpn>
-      <ean>0660982759244</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Suport SIM - Card Motorola Moto G35, Verde (Leaf Green), Service Pack S948E50444</description>
     </product>
     <product>
       <uid>386345</uid>
@@ -408398,8 +406664,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Urban Armor Gear, Monarch Pro Kevlar, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-urban-armor-gear-monarch-pro-kevlar-neagra</link>
       <image>https://img.gsmnet.ro/600x600/products/248529/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-urban-armor-gear-monarch-pro-kevlar-neagra-1791208294217.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -408432,8 +406698,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Urban Armor Gear, Monarch Pro Kevlar, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-neagra</link>
       <image>https://img.gsmnet.ro/600x600/products/248532/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-kevlar-monarch-pro-neagra-1791208304390.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -409639,8 +407905,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Urban Armor Gear, Monarch Pro Kevlar, Bleumarin</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-urban-armor-gear-monarch-pro-kevlar-bleumarin</link>
       <image>https://img.gsmnet.ro/600x600/products/248613/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-urban-armor-gear-monarch-pro-kevlar-bleumarin-1791208559548.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -410931,8 +409197,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Urban Armor Gear, Monarch Pro Kevlar, Bleumarin</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-bleumarin</link>
       <image>https://img.gsmnet.ro/600x600/products/248700/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-bleumarin-1791208827216.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -410965,8 +409231,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Urban Armor Gear, Monarch Pro Kevlar, Portocalie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-portocalie</link>
       <image>https://img.gsmnet.ro/600x600/products/248702/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-portocalie-179120883490.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -410982,8 +409248,8 @@
       <name>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Urban Armor Gear, Monarch Pro Kevlar, Verde</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-verde</link>
       <image>https://img.gsmnet.ro/600x600/products/248703/husa-magsafe-pentru-apple-iphone-18-pro-max-17-pro-max-urban-armor-gear-monarch-pro-kevlar-verde-1791208838971.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -412036,8 +410302,8 @@
       <name>Husa MagSafe pentru Samsung Galaxy S26 Ultra S948, Urban Armor Gear, Plasma XTE 360, Gri</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s26-ultra-s948-urban-armor-gear-plasma-xte-360-gri</link>
       <image>https://img.gsmnet.ro/600x600/products/248769/husa-magsafe-pentru-samsung-galaxy-s26-ultra-s948-urban-armor-gear-plasma-xte-360-gri-1791209053893.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -412053,8 +410319,8 @@
       <name>Husa MagSafe pentru Samsung Galaxy S26 Ultra S948, Urban Armor Gear, Plasma XTE 360, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s26-ultra-s948-urban-armor-gear-plasma-xte-360-neagra</link>
       <image>https://img.gsmnet.ro/600x600/products/248770/husa-magsafe-pentru-samsung-galaxy-s26-ultra-s948-urban-armor-gear-plasma-xte-360-neagra-1791209057984.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Huse Telefoane</category>
       <manufacturer>Urban Armor Gear</manufacturer>
@@ -413528,23 +411794,6 @@
       <description>Husa pentru Apple iPhone 18 Pro Max / 17 Pro Max, Ringke, Fusion Seoul, Visinie</description>
     </product>
     <product>
-      <uid>386984</uid>
-      <name>Husa pentru Apple iPhone 18 Pro Max / 17 Pro Max, Ringke, Fusion, Transparenta Mata</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-18-pro-max-17-pro-max-ringke-fusion-transparenta-mata</link>
-      <image>https://img.gsmnet.ro/600x600/products/248875/husa-pentru-apple-iphone-18-pro-max-17-pro-max-ringke-fusion-transparenta-mata-1791209298972.jpg</image>
-      <price>29.75</price>
-      <price_with_vat>29.75</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Ringke</manufacturer>
-      <mpn>386984</mpn>
-      <ean>8800380461536</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Apple iPhone 18 Pro Max / 17 Pro Max, Ringke, Fusion, Transparenta Mata</description>
-    </product>
-    <product>
       <uid>386985</uid>
       <name>Husa pentru Apple iPhone 18 Pro Max / 17 Pro Max, Ringke, Onyx, Camuflaj</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-apple-iphone-18-pro-max-17-pro-max-ringke-onyx-camuflaj</link>
@@ -414818,23 +413067,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Folie de protectie Camera Spate Techsuit pentru Apple iPhone 18 Pro Max, Sticla Securizata, Neagra</description>
-    </product>
-    <product>
-      <uid>387069</uid>
-      <name>Folie de protectie Ecran Techsuit pentru Xiaomi Redmi Note 17 Pro / Note 17 Pro Max, Sticla Securizata, Full Glue, 111D, Neagra</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-ecran-techsuit-pentru-xiaomi-redmi-note-17-pro-note-17-pro-max-sticla-securizata-full-glue-111d-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/248960/folie-de-protectie-ecran-techsuit-pentru-xiaomi-redmi-note-17-pro-note-17-pro-max-sticla-securizata-full-glue-111d-neagra-1791208217609.jpg</image>
-      <price>9.91</price>
-      <price_with_vat>9.91</price_with_vat>
-      <vat>24.00</vat>
-      <category>Folii protectie telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>387069</mpn>
-      <ean>5949419386570</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie de protectie Ecran Techsuit pentru Xiaomi Redmi Note 17 Pro / Note 17 Pro Max, Sticla Securizata, Full Glue, 111D, Neagra</description>
     </product>
     <product>
       <uid>387070</uid>
@@ -422827,23 +421059,6 @@
       <description>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Guess, Blossom Roses Print, Bleu</description>
     </product>
     <product>
-      <uid>387627</uid>
-      <name>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Guess, Blossom Roses Print, Roz</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-guess-blossom-roses-print-roz</link>
-      <image>https://img.gsmnet.ro/600x600/products/249518/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-guess-blossom-roses-print-roz-1791981562747.jpg</image>
-      <price>53.31</price>
-      <price_with_vat>53.31</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Guess</manufacturer>
-      <mpn>387627</mpn>
-      <ean>3666339653422</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Guess, Blossom Roses Print, Roz</description>
-    </product>
-    <product>
       <uid>387629</uid>
       <name>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Guess, Grained Ring Stand 360 Classic, Neagra</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-guess-grained-ring-stand-360-classic-neagra</link>
@@ -422910,23 +421125,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Apple iPhone 18 Pro Max / 17 Pro Max, Guess, Triangle Logo, Roz</description>
-    </product>
-    <product>
-      <uid>387639</uid>
-      <name>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Guess, IML Script Metal, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-guess-iml-script-metal-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/249530/husa-magsafe-pentru-apple-iphone-18-pro-17-pro-guess-iml-script-metal-transparenta-1791981597402.jpg</image>
-      <price>49.59</price>
-      <price_with_vat>49.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Guess</manufacturer>
-      <mpn>387639</mpn>
-      <ean>3666339679156</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Apple iPhone 18 Pro / 17 Pro, Guess, IML Script Metal, Transparenta</description>
     </product>
     <product>
       <uid>387640</uid>
@@ -425041,8 +423239,8 @@
       <name>Display cu Touchscreen Huawei Pura 90s Pro, cu Rama, Negru (Mulberry Black), Service Pack 02357TSE</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-pura-90s-pro-cu-rama-negru-mulberry-black-service-pack-02357tse</link>
       <image>https://img.gsmnet.ro/600x600/products/249723/display-cu-touchscreen-huawei-1-1792767588.jpg</image>
-      <price>1075.07</price>
-      <price_with_vat>1075.07</price_with_vat>
+      <price>1076.31</price>
+      <price_with_vat>1076.31</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -425058,8 +423256,8 @@
       <name>Display cu Touchscreen Huawei Pura 90s Pro, cu Rama, Alb (Coconut White), Service Pack 02357TSG</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-pura-90s-pro-cu-rama-alb-coconut-white-service-pack-02357tsg</link>
       <image>https://img.gsmnet.ro/600x600/products/249725/display-cu-touchscreen-huawei-1-1792767576.jpg</image>
-      <price>1075.07</price>
-      <price_with_vat>1075.07</price_with_vat>
+      <price>1076.31</price>
+      <price_with_vat>1076.31</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -425075,8 +423273,8 @@
       <name>Display cu Touchscreen Huawei Pura 90s Pro, cu Rama, Portocaliu (Orange Soda), Service Pack 02357TSH</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-pura-90s-pro-cu-rama-portocaliu-orange-soda-service-pack-02357tsh</link>
       <image>https://img.gsmnet.ro/600x600/products/249726/display-cu-touchscreen-huawei-1-1792767567.jpg</image>
-      <price>1075.07</price>
-      <price_with_vat>1075.07</price_with_vat>
+      <price>1076.31</price>
+      <price_with_vat>1076.31</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426401,8 +424599,8 @@
       <name>Kit Capac Baterie Huawei Pura 90s Pro Coconut White Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/kit-capac-baterie-huawei-pura-90s-pro-coconut-white-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249815/kit-capac-baterie-huawei-9-1792417055.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426418,8 +424616,8 @@
       <name>Kit Capac Baterie Huawei Pura 90s Pro Orange Soda Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/kit-capac-baterie-huawei-pura-90s-pro-orange-soda-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249816/kit-capac-baterie-huawei-9-1792417073.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426435,8 +424633,8 @@
       <name>Kit Acumulator Huawei Pura 90s Pro Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-acumulatori/kit-acumulator-huawei-pura-90s-pro-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249817/kit-acumulator-huawei-pura-14-1792419151.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426503,8 +424701,8 @@
       <name>Kit Capac Baterie Huawei Pura 90s Pro Max Graphite Black Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/kit-capac-baterie-huawei-pura-90s-pro-max-graphite-black-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249823/kit-capac-baterie-huawei-9-1792421631.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426520,8 +424718,8 @@
       <name>Kit Capac Baterie Huawei Pura 90s Pro Max Orange Ocean Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/kit-capac-baterie-huawei-pura-90s-pro-max-orange-ocean-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249824/kit-capac-baterie-huawei-9-1792421648.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426537,8 +424735,8 @@
       <name>Kit Capac Baterie Huawei Pura 90s Pro Max Blush Gold Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-capace-baterie/kit-capac-baterie-huawei-pura-90s-pro-max-blush-gold-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249825/kit-capac-baterie-huawei-9-1792421659.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -426588,8 +424786,8 @@
       <name>Kit Acumulator Huawei Pura 90s Pro Max Service Pack si Instrumente Service Dedicate</name>
       <link>https://www.gsmnet.ro/piese-componente-acumulatori/kit-acumulator-huawei-pura-90s-pro-max-service-pack-instrumente-service-dedicate</link>
       <image>https://img.gsmnet.ro/600x600/products/249828/kit-acumulator-huawei-pura-14-1792480217.jpg</image>
-      <price>526.99</price>
-      <price_with_vat>526.99</price_with_vat>
+      <price>528.23</price>
+      <price_with_vat>528.23</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -427876,23 +426074,6 @@
       <description>Husa pentru Xiaomi Poco F9 Pro, Techsuit, Carbon, Albastra</description>
     </product>
     <product>
-      <uid>388032</uid>
-      <name>Husa pentru Xiaomi Redmi Note 17 Pro, Techsuit, ColorVerse 360, Roz</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-17-pro-techsuit-colorverse-360-roz</link>
-      <image>https://img.gsmnet.ro/600x600/products/249923/husa-pentru-xiaomi-redmi-note-17-pro-techsuit-colorverse-360-roz-1792668613917.jpg</image>
-      <price>14.87</price>
-      <price_with_vat>14.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>388032</mpn>
-      <ean>5949419391536</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi Note 17 Pro, Techsuit, ColorVerse 360, Roz</description>
-    </product>
-    <product>
       <uid>388034</uid>
       <name>Husa pentru Xiaomi Redmi Note 17 4G / Note 17 5G, Techsuit, ColorVerse 360, Roz</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-17-4g-note-17-5g-techsuit-colorverse-360-roz</link>
@@ -427993,23 +426174,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa pentru Xiaomi Redmi Note 17 Pro Max, Techsuit, ColorVerse 360, Roz</description>
-    </product>
-    <product>
-      <uid>388040</uid>
-      <name>Husa pentru Xiaomi Redmi Note 17 Pro Max, Techsuit, ColorVerse 360, Mov</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-17-pro-max-techsuit-colorverse-360-mov</link>
-      <image>https://img.gsmnet.ro/600x600/products/249931/husa-pentru-xiaomi-redmi-note-17-pro-max-techsuit-colorverse-360-mov-1792668619171.jpg</image>
-      <price>14.87</price>
-      <price_with_vat>14.87</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>388040</mpn>
-      <ean>5949419392915</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi Note 17 Pro Max, Techsuit, ColorVerse 360, Mov</description>
     </product>
     <product>
       <uid>388041</uid>
@@ -428492,8 +426656,8 @@
       <name>Folie Protectie Spigen GlastR EZ FIT Anti-Glare FC pentru Navigatie Tesla Y (2026 / 2025) / 3 (2026 / 2025 / 2024), Sticla Securizata AGL07152</name>
       <link>https://www.gsmnet.ro/gadgeturi-accesorii-auto/folie-protectie-spigen-glastr-ez-fit-anti-glare-fc-pentru-navigatie-tesla-y-2026-2025-3-2026-2025-2024-sticla-securizata-agl07152</link>
       <image>https://img.gsmnet.ro/600x600/products/249963/folie-protectie-spigen-glastr-ez-fit-anti-glare-fc-pentru-navigatie-tesla-y-2026-2025-3-2026-2025-2024-sticla-securizata-agl07152-1792668456382.jpg</image>
-      <price>111.59</price>
-      <price_with_vat>111.59</price_with_vat>
+      <price>112.83</price>
+      <price_with_vat>112.83</price_with_vat>
       <vat>24.00</vat>
       <category>Accesorii pentru interiorul mașinii</category>
       <manufacturer>Spigen</manufacturer>
@@ -430492,23 +428656,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Xiaomi Redmi Note 17 Pro, Techsuit, HaloFrost II, Albastra</description>
-    </product>
-    <product>
-      <uid>388647</uid>
-      <name>Husa pentru Xiaomi Redmi Note 17 4G / Note 17 5G, Techsuit, SparkleSkin, Transparenta</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-pentru-xiaomi-redmi-note-17-4g-note-17-5g-techsuit-sparkleskin-transparenta</link>
-      <image>https://img.gsmnet.ro/600x600/products/250538/husa-pentru-xiaomi-redmi-note-17-4g-note-17-5g-techsuit-sparkleskin-transparenta-1793185249963.jpg</image>
-      <price>11.15</price>
-      <price_with_vat>11.15</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>388647</mpn>
-      <ean>5949419391499</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa pentru Xiaomi Redmi Note 17 4G / Note 17 5G, Techsuit, SparkleSkin, Transparenta</description>
     </product>
     <product>
       <uid>388648</uid>
@@ -432908,23 +431055,6 @@
       <description>Husa MagSafe pentru Apple iPhone Duo, Tech-Protect, MagPeak CC, Transparenta</description>
     </product>
     <product>
-      <uid>389043</uid>
-      <name>Folie Protectie Tech-Protect Easy Set Flex+ pentru Apple Watch 12 42mm, Set 3 bucati, Sticla Flexibila, Neagra</name>
-      <link>https://www.gsmnet.ro/wearables-accesorii-wearables/folie-protectie-tech-protect-easy-set-flex-plus-pentru-apple-watch-12-42mm-set-3-bucati-sticla-flexibila-neagra</link>
-      <image>https://img.gsmnet.ro/600x600/products/250934/folie-protectie-tech-protect-easy-1-1793783077.png</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Diverse accesorii pentru dispozitive purtabile</category>
-      <manufacturer>Tech-Protect</manufacturer>
-      <mpn>389043</mpn>
-      <ean>5906302343249</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Folie Protectie Tech-Protect Easy Set Flex+ pentru Apple Watch 12 42mm, Set 3 bucati, Sticla Flexibila, Neagra</description>
-    </product>
-    <product>
       <uid>389044</uid>
       <name>Folie de protectie Camera Spate Tech-Protect CamRing Fit+ pentru Apple iPhone 18 Pro / 18 Pro Max, Sticla Securizata, Visinie</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-folii-protectie/folie-de-protectie-camera-spate-tech-protect-camring-fit-plus-pentru-apple-iphone-18-pro-18-pro-max-sticla-securizata-visinie</link>
@@ -433286,8 +431416,8 @@
       <name>Display cu Touchscreen Huawei MatePad Pro 12 (2026), Service Pack 02357VGK</name>
       <link>https://www.gsmnet.ro/piese-componente-display-cu-touchscreen/display-cu-touchscreen-huawei-matepad-pro-12-2026-service-pack-02357vgk</link>
       <image>https://img.gsmnet.ro/600x600/products/250957/display-cu-touchscreen-huawei-1-1793791787.jpg</image>
-      <price>1119.71</price>
-      <price_with_vat>1119.71</price_with_vat>
+      <price>1120.95</price>
+      <price_with_vat>1120.95</price_with_vat>
       <vat>24.00</vat>
       <category>Piese de schimb diverse pentru telefoane mobile</category>
       <manufacturer>Huawei</manufacturer>
@@ -433949,8 +432079,8 @@
       <name>Carcasa Protectie Spigen pentru Ochelari Virtuali Valve Steam Frame / Meta Oculus Quest 3, Neagra AGP11345</name>
       <link>https://www.gsmnet.ro/gadgeturi-utile/carcasa-protectie-spigen-pentru-ochelari-virtuali-valve-steam-frame-meta-oculus-quest-3-neagra-agp11345</link>
       <image>https://img.gsmnet.ro/600x600/products/251037/carcasa-protectie-spigen-pentru-ochelari-virtuali-valve-steam-frame-meta-quest-3-neagra-agp11345-1794221708985.jpg</image>
-      <price>177.31</price>
-      <price_with_vat>177.31</price_with_vat>
+      <price>178.55</price>
+      <price_with_vat>178.55</price_with_vat>
       <vat>24.00</vat>
       <category>Diverse gadgeturi</category>
       <manufacturer>Spigen</manufacturer>
@@ -433983,8 +432113,8 @@
       <name>Card Memorie microSDHC SanDisk Extreme Pro A1, 32Gb, Clasa 10 / UHS-1 U3, Cu Adaptor SDSQXCO-032G-GS6MA</name>
       <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-carduri-memorii-usb/card-memorie-microsdhc-sandisk-extreme-pro-a1-32gb-clasa-10-uhs-1-u3-cu-adaptor-sdsqxco-032g-gs6ma</link>
       <image>https://img.gsmnet.ro/600x600/products/251039/card-memorie-microsdhc-sandisk-1-1794823897.png</image>
-      <price>74.39</price>
-      <price_with_vat>74.39</price_with_vat>
+      <price>75.63</price>
+      <price_with_vat>75.63</price_with_vat>
       <vat>24.00</vat>
       <category>Carduri de memorie</category>
       <manufacturer>SanDisk</manufacturer>
@@ -435371,40 +433501,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Incarcator Retea Wireless UGREEN W777 (75723) 3in1, 32.5W, Auriu</description>
-    </product>
-    <product>
-      <uid>389238</uid>
-      <name>Handsfree Bluetooth JBL Wave Beam 2, TWS, ANC, MultiPoint, Negru JBLWBEAM2BLK</name>
-      <link>https://www.gsmnet.ro/wearables-audio-inclusiv-tws/handsfree-bluetooth-jbl-wave-beam-2-tws-anc-multipoint-negru-jblwbeam2blk</link>
-      <image>https://img.gsmnet.ro/600x600/products/251129/handsfree-bluetooth-jbl-wave-1-1795185721.png</image>
-      <price>99.19</price>
-      <price_with_vat>99.19</price_with_vat>
-      <vat>24.00</vat>
-      <category>Casti Bluetooth Handsfree</category>
-      <manufacturer>JBL</manufacturer>
-      <mpn>JBLWBEAM2BLK</mpn>
-      <ean>1200130015250</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Handsfree Bluetooth JBL Wave Beam 2, TWS, ANC, MultiPoint, Negru JBLWBEAM2BLK</description>
-    </product>
-    <product>
-      <uid>389239</uid>
-      <name>Handsfree Bluetooth JBL Wave Beam 2, TWS, ANC, MultiPoint, Alb JBLWBEAM2WHT</name>
-      <link>https://www.gsmnet.ro/wearables-audio-inclusiv-tws/handsfree-bluetooth-jbl-wave-beam-2-tws-anc-multipoint-alb-jblwbeam2wht</link>
-      <image>https://img.gsmnet.ro/600x600/products/251130/handsfree-bluetooth-jbl-wave-1-1794311002.png</image>
-      <price>99.19</price>
-      <price_with_vat>99.19</price_with_vat>
-      <vat>24.00</vat>
-      <category>Casti Bluetooth Handsfree</category>
-      <manufacturer>JBL</manufacturer>
-      <mpn>JBLWBEAM2WHT</mpn>
-      <ean>1200130015267</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Handsfree Bluetooth JBL Wave Beam 2, TWS, ANC, MultiPoint, Alb JBLWBEAM2WHT</description>
     </product>
     <product>
       <uid>389260</uid>
@@ -437326,23 +435422,6 @@
       <instock>Y</instock>
       <quantity>5</quantity>
       <description>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, Luxury Crystal, Albastra Inchis</description>
-    </product>
-    <product>
-      <uid>389382</uid>
-      <name>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, Luxury Crystal, Argintie</name>
-      <link>https://www.gsmnet.ro/accesorii-telefoane-tablete-huse/husa-magsafe-pentru-samsung-galaxy-s26-fe-s741-techsuit-luxury-crystal-argintie</link>
-      <image>https://img.gsmnet.ro/600x600/products/251273/husa-magsafe-pentru-samsung-galaxy-s26-fe-s741-techsuit-luxury-crystal-argintie-179449307687.jpg</image>
-      <price>18.59</price>
-      <price_with_vat>18.59</price_with_vat>
-      <vat>24.00</vat>
-      <category>Huse Telefoane</category>
-      <manufacturer>Techsuit</manufacturer>
-      <mpn>389382</mpn>
-      <ean>5949419390447</ean>
-      <availability>In stock</availability>
-      <instock>Y</instock>
-      <quantity>5</quantity>
-      <description>Husa MagSafe pentru Samsung Galaxy S26 FE S741, Techsuit, Luxury Crystal, Argintie</description>
     </product>
     <product>
       <uid>389383</uid>
